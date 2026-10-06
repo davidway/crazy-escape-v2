@@ -1,0 +1,1 @@
+{"__type__":"cc.Material","_name":"hit","_techniqueData":{"0":{"defines":{"USE_TEXTURE":true,"INPUT_IS_GAMMA":false,"USE_ALPHA_TEST":true},"props":{"alphaThreshold":1}}},"_effectAsset":{"__uuid__":"c4719803-45ae-4322-a6c1-1e964cb1716a"}}

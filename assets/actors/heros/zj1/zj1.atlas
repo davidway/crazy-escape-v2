@@ -1,0 +1,97 @@
+
+zj1.png
+size: 523,502
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 212, 90
+  size: 137, 65
+  orig: 140, 68
+  offset: 2, 2
+  index: -1
+piaodai
+  rotate: false
+  xy: 2, 96
+  size: 208, 163
+  orig: 208, 163
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 260, 320
+  size: 158, 180
+  orig: 158, 180
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 261
+  size: 256, 239
+  orig: 256, 239
+  offset: 0, 0
+  index: -1
+weijin
+  rotate: false
+  xy: 2, 2
+  size: 203, 92
+  orig: 203, 95
+  offset: 0, 3
+  index: -1
+yingzi
+  rotate: false
+  xy: 212, 157
+  size: 241, 35
+  orig: 243, 37
+  offset: 1, 1
+  index: -1
+youer
+  rotate: true
+  xy: 260, 194
+  size: 124, 158
+  orig: 126, 160
+  offset: 1, 1
+  index: -1
+youjiao
+  rotate: true
+  xy: 351, 87
+  size: 68, 100
+  orig: 68, 100
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 420, 194
+  size: 90, 157
+  orig: 90, 157
+  offset: 0, 0
+  index: -1
+zhengyan
+  rotate: false
+  xy: 207, 23
+  size: 135, 65
+  orig: 137, 67
+  offset: 1, 1
+  index: -1
+zuoer
+  rotate: true
+  xy: 344, 6
+  size: 79, 98
+  orig: 81, 100
+  offset: 1, 1
+  index: -1
+zuojiao
+  rotate: false
+  xy: 455, 99
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 420, 353
+  size: 101, 147
+  orig: 101, 147
+  offset: 0, 0
+  index: -1

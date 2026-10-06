@@ -1,0 +1,216 @@
+
+Dragon9-03.png
+size: 932,1034
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01Fire/eye11
+  rotate: false
+  xy: 59, 200
+  size: 71, 57
+  orig: 75, 59
+  offset: 2, 1
+  index: -1
+01Fire/f1
+  rotate: true
+  xy: 397, 429
+  size: 192, 388
+  orig: 300, 450
+  offset: 51, 11
+  index: -1
+01Fire/f2
+  rotate: true
+  xy: 2, 450
+  size: 190, 393
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+01Fire/f3
+  rotate: true
+  xy: 423, 623
+  size: 208, 395
+  orig: 300, 450
+  offset: 27, 12
+  index: -1
+01Fire/f4
+  rotate: true
+  xy: 430, 833
+  size: 199, 422
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+01Fire/f5
+  rotate: true
+  xy: 2, 837
+  size: 195, 426
+  orig: 300, 450
+  offset: 51, 12
+  index: -1
+01Fire/f6
+  rotate: true
+  xy: 2, 642
+  size: 193, 419
+  orig: 300, 450
+  offset: 50, 11
+  index: -1
+ML9/biyan
+  rotate: true
+  xy: 820, 738
+  size: 93, 20
+  orig: 95, 22
+  offset: 1, 1
+  index: -1
+ML9/bozi
+  rotate: false
+  xy: 518, 303
+  size: 265, 124
+  orig: 265, 124
+  offset: 0, 0
+  index: -1
+ML9/qiu-l1
+  rotate: false
+  xy: 842, 734
+  size: 87, 90
+  orig: 89, 92
+  offset: 1, 1
+  index: -1
+ML9/qiu-l2
+  rotate: false
+  xy: 813, 6
+  size: 90, 79
+  orig: 92, 81
+  offset: 1, 1
+  index: -1
+ML9/qiu-l3
+  rotate: true
+  xy: 732, 3
+  size: 82, 79
+  orig: 84, 81
+  offset: 1, 1
+  index: -1
+ML9/qiu-r1
+  rotate: true
+  xy: 854, 894
+  size: 66, 75
+  orig: 68, 77
+  offset: 1, 1
+  index: -1
+ML9/qiu-r2
+  rotate: true
+  xy: 854, 826
+  size: 66, 73
+  orig: 68, 75
+  offset: 1, 1
+  index: -1
+ML9/qiu-r3
+  rotate: true
+  xy: 854, 962
+  size: 70, 75
+  orig: 72, 77
+  offset: 1, 1
+  index: -1
+ML9/qiudai-l1
+  rotate: true
+  xy: 787, 372
+  size: 181, 139
+  orig: 181, 139
+  offset: 0, 0
+  index: -1
+ML9/qiudai-l2
+  rotate: false
+  xy: 290, 4
+  size: 65, 182
+  orig: 65, 182
+  offset: 0, 0
+  index: -1
+ML9/qiudai-r1
+  rotate: true
+  xy: 820, 555
+  size: 116, 91
+  orig: 116, 91
+  offset: 0, 0
+  index: -1
+ML9/qiudai-r2
+  rotate: true
+  xy: 785, 329
+  size: 41, 145
+  orig: 41, 145
+  offset: 0, 0
+  index: -1
+ML9/qun
+  rotate: true
+  xy: 200, 188
+  size: 260, 190
+  orig: 260, 190
+  offset: 0, 0
+  index: -1
+ML9/qun-l1
+  rotate: false
+  xy: 59, 2
+  size: 229, 184
+  orig: 229, 184
+  offset: 0, 0
+  index: -1
+ML9/qun-l2
+  rotate: true
+  xy: 357, 7
+  size: 179, 127
+  orig: 179, 127
+  offset: 0, 0
+  index: -1
+ML9/qun-r1
+  rotate: true
+  xy: 59, 259
+  size: 115, 134
+  orig: 115, 134
+  offset: 0, 0
+  index: -1
+ML9/shangye-l1
+  rotate: true
+  xy: 732, 87
+  size: 214, 198
+  orig: 214, 198
+  offset: 0, 0
+  index: -1
+ML9/shangye-r1
+  rotate: false
+  xy: 392, 198
+  size: 124, 172
+  orig: 124, 172
+  offset: 0, 0
+  index: -1
+ML9/tou
+  rotate: false
+  xy: 518, 31
+  size: 212, 270
+  orig: 214, 272
+  offset: 1, 1
+  index: -1
+ML9/xiaye-l1
+  rotate: false
+  xy: 2, 376
+  size: 196, 51
+  orig: 196, 51
+  offset: 0, 0
+  index: -1
+ML9/xiaye-r1
+  rotate: false
+  xy: 392, 383
+  size: 124, 44
+  orig: 124, 44
+  offset: 0, 0
+  index: -1
+ML9/zhengyan
+  rotate: false
+  xy: 820, 673
+  size: 92, 59
+  orig: 94, 61
+  offset: 1, 1
+  index: -1
+YZ
+  rotate: true
+  xy: 2, 4
+  size: 366, 55
+  orig: 368, 57
+  offset: 1, 1
+  index: -1

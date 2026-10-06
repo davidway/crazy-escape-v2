@@ -1,0 +1,27 @@
+var t = require;
+var e = module;
+var o = exports;
+Object.defineProperty(o, "__esModule", {value: !0}),
+    (o.GoldType = o.ExpType = o.DropType = void 0),
+    ((e = o.DropType || (o.DropType = {}))[(e.None = 0)] = "None"),
+    (e[(e.Exp = 1)] = "Exp"),
+    (e[(e.Box = 2)] = "Box"),
+    (e[(e.Gold = 3)] = "Gold"),
+    (e[(e.Chest = 4)] = "Chest"),
+    (e[(e.Magnet = 5)] = "Magnet"),
+    (e[(e.Smked = 6)] = "Smked"),
+    (e[(e.Bomb = 7)] = "Bomb"),
+    (e[(e.Equip = 8)] = "Equip"),
+    (e[(e.Drawing = 9)] = "Drawing"),
+    (e[(e.Goods = 10)] = "Goods"),
+    ((e = o.ExpType || (o.ExpType = {}))[(e.None = 0)] = "None"),
+    (e[(e.Green = 1)] = "Green"),
+    (e[(e.Big_Green = 2)] = "Big_Green"),
+    (e[(e.Blue = 3)] = "Blue"),
+    (e[(e.Big_Blue = 4)] = "Big_Blue"),
+    (e[(e.Golden = 5)] = "Golden"),
+    (e[(e.Big_Golden = 6)] = "Big_Golden"),
+    ((o = o.GoldType || (o.GoldType = {}))[(o.None = 0)] = "None"),
+    (o[(o.Mini = 1)] = "Mini"),
+    (o[(o.Middle = 2)] = "Middle"),
+    (o[(o.Big = 3)] = "Big");

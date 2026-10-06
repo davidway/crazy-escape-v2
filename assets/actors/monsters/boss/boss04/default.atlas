@@ -1,0 +1,167 @@
+
+default.png
+size: 1371,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YZ
+  rotate: false
+  xy: 2, 2
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1
+attack/01_00000
+  rotate: false
+  xy: 1051, 74
+  size: 110, 112
+  orig: 400, 400
+  offset: 274, 160
+  index: -1
+attack/01_00003
+  rotate: false
+  xy: 309, 125
+  size: 273, 133
+  orig: 400, 400
+  offset: 111, 140
+  index: -1
+attack/01_00006
+  rotate: false
+  xy: 584, 11
+  size: 368, 174
+  orig: 400, 400
+  offset: 15, 111
+  index: -1
+attack/01_00009
+  rotate: false
+  xy: 650, 348
+  size: 380, 171
+  orig: 400, 400
+  offset: 6, 116
+  index: -1
+attack/01_00012
+  rotate: false
+  xy: 650, 187
+  size: 370, 159
+  orig: 400, 400
+  offset: 9, 124
+  index: -1
+attack/01_00015
+  rotate: false
+  xy: 1032, 360
+  size: 301, 159
+  orig: 400, 400
+  offset: 46, 128
+  index: -1
+boss03/Body
+  rotate: false
+  xy: 2, 209
+  size: 305, 310
+  orig: 305, 311
+  offset: 0, 1
+  index: -1
+boss03/Eye
+  rotate: false
+  xy: 1258, 106
+  size: 83, 79
+  orig: 92, 87
+  offset: 4, 4
+  index: -1
+boss03/Foot_L_E
+  rotate: false
+  xy: 1051, 4
+  size: 146, 68
+  orig: 154, 76
+  offset: 4, 4
+  index: -1
+boss03/Foot_L_S
+  rotate: false
+  xy: 1251, 248
+  size: 100, 110
+  orig: 108, 118
+  offset: 4, 4
+  index: -1
+boss03/Foot_L_X
+  rotate: false
+  xy: 1163, 77
+  size: 93, 107
+  orig: 101, 115
+  offset: 4, 4
+  index: -1
+boss03/Foot_R_E
+  rotate: false
+  xy: 1022, 188
+  size: 159, 74
+  orig: 167, 82
+  offset: 4, 4
+  index: -1
+boss03/Foot_R_S
+  rotate: false
+  xy: 954, 12
+  size: 95, 173
+  orig: 103, 181
+  offset: 4, 4
+  index: -1
+boss03/Foot_R_X
+  rotate: true
+  xy: 1032, 264
+  size: 94, 217
+  orig: 94, 217
+  offset: 0, 0
+  index: -1
+boss03/Hand_L_E
+  rotate: true
+  xy: 1258, 56
+  size: 48, 100
+  orig: 56, 108
+  offset: 4, 4
+  index: -1
+boss03/Hand_L_S
+  rotate: true
+  xy: 1199, 5
+  size: 49, 109
+  orig: 57, 117
+  offset: 4, 4
+  index: -1
+boss03/Hand_L_X
+  rotate: false
+  xy: 584, 197
+  size: 55, 61
+  orig: 63, 69
+  offset: 4, 4
+  index: -1
+boss03/Hand_R_E
+  rotate: true
+  xy: 1250, 187
+  size: 59, 119
+  orig: 67, 127
+  offset: 4, 4
+  index: -1
+boss03/Hand_R_S
+  rotate: true
+  xy: 306, 8
+  size: 115, 236
+  orig: 123, 244
+  offset: 4, 4
+  index: -1
+boss03/Hand_R_X
+  rotate: false
+  xy: 1183, 186
+  size: 65, 76
+  orig: 73, 84
+  offset: 4, 4
+  index: -1
+boss03/Head
+  rotate: true
+  xy: 309, 260
+  size: 259, 339
+  orig: 267, 347
+  offset: 4, 4
+  index: -1
+boss03/Tail
+  rotate: true
+  xy: 2, 23
+  size: 184, 302
+  orig: 184, 303
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+Dragon10-03.png
+size: 299,918
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YZ
+  rotate: false
+  xy: 2, 718
+  size: 278, 41
+  orig: 280, 43
+  offset: 1, 1
+  index: -1
+biyan
+  rotate: false
+  xy: 185, 320
+  size: 99, 44
+  orig: 101, 46
+  offset: 1, 1
+  index: -1
+shangye_l
+  rotate: true
+  xy: 241, 193
+  size: 125, 53
+  orig: 125, 53
+  offset: 0, 0
+  index: -1
+shangye_r
+  rotate: false
+  xy: 216, 620
+  size: 72, 44
+  orig: 72, 44
+  offset: 0, 0
+  index: -1
+shenti1
+  rotate: true
+  xy: 216, 666
+  size: 50, 79
+  orig: 50, 79
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: false
+  xy: 216, 506
+  size: 62, 112
+  orig: 62, 112
+  offset: 0, 0
+  index: -1
+shenti3
+  rotate: true
+  xy: 190, 366
+  size: 138, 107
+  orig: 138, 107
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 761
+  size: 295, 155
+  orig: 298, 157
+  offset: 1, 1
+  index: -1
+touf
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+xiaye_l1
+  rotate: true
+  xy: 2, 560
+  size: 156, 212
+  orig: 156, 212
+  offset: 0, 0
+  index: -1
+xiaye_l2
+  rotate: false
+  xy: 2, 154
+  size: 161, 126
+  orig: 161, 126
+  offset: 0, 0
+  index: -1
+xiaye_l3
+  rotate: true
+  xy: 2, 344
+  size: 94, 181
+  orig: 94, 181
+  offset: 0, 0
+  index: -1
+xiaye_r1
+  rotate: true
+  xy: 2, 440
+  size: 118, 186
+  orig: 118, 186
+  offset: 0, 0
+  index: -1
+xiaye_r2
+  rotate: false
+  xy: 165, 73
+  size: 128, 118
+  orig: 128, 118
+  offset: 0, 0
+  index: -1
+xiaye_r3
+  rotate: true
+  xy: 2, 282
+  size: 60, 176
+  orig: 60, 176
+  offset: 0, 0
+  index: -1
+zhongye
+  rotate: true
+  xy: 180, 193
+  size: 125, 59
+  orig: 125, 59
+  offset: 0, 0
+  index: -1

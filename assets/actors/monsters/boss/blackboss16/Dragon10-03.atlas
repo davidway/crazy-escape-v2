@@ -1,0 +1,167 @@
+
+Dragon10-03.png
+size: 1908,443
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01Fire/eye11
+  rotate: true
+  xy: 1847, 230
+  size: 71, 57
+  orig: 75, 59
+  offset: 2, 1
+  index: -1
+01Fire/f1
+  rotate: false
+  xy: 997, 53
+  size: 192, 388
+  orig: 300, 450
+  offset: 51, 11
+  index: -1
+01Fire/f2
+  rotate: false
+  xy: 805, 48
+  size: 190, 393
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+01Fire/f3
+  rotate: false
+  xy: 595, 46
+  size: 208, 395
+  orig: 300, 450
+  offset: 27, 12
+  index: -1
+01Fire/f4
+  rotate: false
+  xy: 199, 19
+  size: 199, 422
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+01Fire/f5
+  rotate: false
+  xy: 2, 15
+  size: 195, 426
+  orig: 300, 450
+  offset: 51, 12
+  index: -1
+01Fire/f6
+  rotate: false
+  xy: 400, 22
+  size: 193, 419
+  orig: 300, 450
+  offset: 50, 11
+  index: -1
+ML2/biyan
+  rotate: false
+  xy: 997, 2
+  size: 110, 49
+  orig: 112, 51
+  offset: 1, 1
+  index: -1
+ML2/shangye_l
+  rotate: true
+  xy: 1847, 303
+  size: 138, 59
+  orig: 138, 59
+  offset: 0, 0
+  index: -1
+ML2/shangye_r
+  rotate: false
+  xy: 1109, 2
+  size: 79, 49
+  orig: 80, 49
+  offset: 0, 0
+  index: -1
+ML2/shenti1
+  rotate: false
+  xy: 1792, 16
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+ML2/shenti2
+  rotate: false
+  xy: 1835, 105
+  size: 69, 123
+  orig: 69, 124
+  offset: 0, 1
+  index: -1
+ML2/shenti3
+  rotate: false
+  xy: 1680, 156
+  size: 153, 118
+  orig: 153, 118
+  offset: 0, 0
+  index: -1
+ML2/tou
+  rotate: true
+  xy: 1191, 114
+  size: 327, 171
+  orig: 329, 173
+  offset: 1, 1
+  index: -1
+ML2/touf
+  rotate: false
+  xy: 1680, 276
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+ML2/xiaye_l1
+  rotate: false
+  xy: 1364, 218
+  size: 172, 223
+  orig: 172, 234
+  offset: 0, 0
+  index: -1
+ML2/xiaye_l2
+  rotate: true
+  xy: 1538, 264
+  size: 177, 140
+  orig: 177, 140
+  offset: 0, 0
+  index: -1
+ML2/xiaye_l3
+  rotate: true
+  xy: 1191, 8
+  size: 104, 200
+  orig: 104, 200
+  offset: 0, 0
+  index: -1
+ML2/xiaye_r1
+  rotate: false
+  xy: 1393, 11
+  size: 130, 205
+  orig: 130, 205
+  offset: 0, 0
+  index: -1
+ML2/xiaye_r2
+  rotate: true
+  xy: 1593, 13
+  size: 141, 131
+  orig: 141, 131
+  offset: 0, 0
+  index: -1
+ML2/xiaye_r3
+  rotate: false
+  xy: 1525, 22
+  size: 66, 194
+  orig: 66, 194
+  offset: 0, 0
+  index: -1
+ML2/zhongye
+  rotate: true
+  xy: 1726, 16
+  size: 138, 64
+  orig: 138, 66
+  offset: 0, 0
+  index: -1
+YZ
+  rotate: false
+  xy: 595, 3
+  size: 278, 41
+  orig: 280, 43
+  offset: 1, 1
+  index: -1

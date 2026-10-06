@@ -1,0 +1,14 @@
+info face="face" size=95
+common lineHeight=95 scaleW=0 scaleH=0 pages=1
+page id=0 file="time.png"
+chars count=10
+char id=48 x=77 y=2 width=73 height=95 xoffset=0 yoffset=0 xadvance=73 page=0 chnl=15
+char id=49 x=152 y=2 width=73 height=95 xoffset=0 yoffset=0 xadvance=73 page=0 chnl=15
+char id=50 x=227 y=2 width=73 height=95 xoffset=0 yoffset=0 xadvance=73 page=0 chnl=15
+char id=51 x=302 y=2 width=73 height=95 xoffset=0 yoffset=0 xadvance=73 page=0 chnl=15
+char id=52 x=377 y=2 width=73 height=95 xoffset=0 yoffset=0 xadvance=73 page=0 chnl=15
+char id=53 x=452 y=2 width=73 height=95 xoffset=0 yoffset=0 xadvance=73 page=0 chnl=15
+char id=54 x=2 y=99 width=73 height=95 xoffset=0 yoffset=0 xadvance=73 page=0 chnl=15
+char id=55 x=77 y=99 width=73 height=95 xoffset=0 yoffset=0 xadvance=73 page=0 chnl=15
+char id=56 x=152 y=99 width=73 height=95 xoffset=0 yoffset=0 xadvance=73 page=0 chnl=15
+char id=57 x=2 y=2 width=73 height=95 xoffset=0 yoffset=0 xadvance=73 page=0 chnl=15

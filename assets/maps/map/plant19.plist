@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>frames</key>
+    <dict>
+      <key>decorate1.png</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1,1},{204,181}}</string>
+        <key>offset</key>
+        <string>{0,0}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,0},{204,181}}</string>
+        <key>sourceSize</key>
+        <string>{204,181}</string>
+      </dict>
+      <key>decorate2.png</key>
+      <dict>
+        <key>frame</key>
+        <string>{{207,1},{143,144}}</string>
+        <key>offset</key>
+        <string>{0,0}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,0},{143,144}}</string>
+        <key>sourceSize</key>
+        <string>{143,144}</string>
+      </dict>
+    </dict>
+    <key>metadata</key>
+    <dict>
+      <key>format</key>
+      <integer>2</integer>
+      <key>realTextureFileName</key>
+      <string>plant19.png</string>
+      <key>textureFileName</key>
+      <string>plant19.png</string>
+      <key>size</key>
+      <string>{0,0}</string>
+    </dict>
+  </dict>
+</plist>

@@ -1,0 +1,146 @@
+
+Dragon4-04.png
+size: 846,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MoLong4-04/01Fire/eye11
+  rotate: false
+  xy: 757, 774
+  size: 71, 57
+  orig: 75, 59
+  offset: 2, 1
+  index: -1
+MoLong4-04/01Fire/f1
+  rotate: false
+  xy: 640, 364
+  size: 192, 388
+  orig: 300, 450
+  offset: 51, 11
+  index: -1
+MoLong4-04/01Fire/f2
+  rotate: true
+  xy: 398, 165
+  size: 190, 393
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+MoLong4-04/01Fire/f3
+  rotate: false
+  xy: 430, 357
+  size: 208, 395
+  orig: 300, 450
+  offset: 27, 12
+  index: -1
+MoLong4-04/01Fire/f4
+  rotate: false
+  xy: 2, 128
+  size: 199, 422
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+MoLong4-04/01Fire/f5
+  rotate: true
+  xy: 2, 552
+  size: 195, 426
+  orig: 300, 450
+  offset: 51, 12
+  index: -1
+MoLong4-04/01Fire/f6
+  rotate: false
+  xy: 203, 131
+  size: 193, 419
+  orig: 300, 450
+  offset: 50, 11
+  index: -1
+MoLong4-04/images/Body
+  rotate: true
+  xy: 274, 754
+  size: 266, 382
+  orig: 266, 382
+  offset: 0, 0
+  index: -1
+MoLong4-04/images/Brow_L
+  rotate: false
+  xy: 793, 290
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+MoLong4-04/images/Brow_R
+  rotate: false
+  xy: 658, 759
+  size: 97, 72
+  orig: 97, 72
+  offset: 0, 0
+  index: -1
+MoLong4-04/images/Eye
+  rotate: false
+  xy: 2, 6
+  size: 179, 120
+  orig: 179, 120
+  offset: 0, 0
+  index: -1
+MoLong4-04/images/Foot_L
+  rotate: false
+  xy: 793, 167
+  size: 37, 62
+  orig: 39, 64
+  offset: 1, 1
+  index: -1
+MoLong4-04/images/Foot_R
+  rotate: false
+  xy: 796, 111
+  size: 39, 54
+  orig: 41, 56
+  offset: 1, 1
+  index: -1
+MoLong4-04/images/Hair_L
+  rotate: false
+  xy: 793, 231
+  size: 41, 57
+  orig: 155, 251
+  offset: 57, 97
+  index: -1
+MoLong4-04/images/Hair_R
+  rotate: false
+  xy: 2, 749
+  size: 270, 271
+  orig: 271, 271
+  offset: 1, 0
+  index: -1
+MoLong4-04/images/Hand_L
+  rotate: true
+  xy: 203, 2
+  size: 127, 192
+  orig: 127, 192
+  offset: 0, 0
+  index: -1
+MoLong4-04/images/Hand_R
+  rotate: true
+  xy: 597, 12
+  size: 151, 197
+  orig: 151, 197
+  offset: 0, 0
+  index: -1
+MoLong4-04/images/Tail
+  rotate: false
+  xy: 658, 833
+  size: 186, 187
+  orig: 186, 187
+  offset: 0, 0
+  index: -1
+VFX_06
+  rotate: true
+  xy: 398, 4
+  size: 159, 197
+  orig: 163, 200
+  offset: 2, 3
+  index: -1
+YZ
+  rotate: true
+  xy: 398, 422
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1

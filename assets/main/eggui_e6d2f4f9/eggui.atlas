@@ -1,0 +1,76 @@
+
+eggui.png
+size: 385,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuizi
+  rotate: false
+  xy: 281, 185
+  size: 102, 99
+  orig: 102, 99
+  offset: 0, 0
+  index: -1
+egg
+  rotate: false
+  xy: 2, 139
+  size: 129, 145
+  orig: 129, 145
+  offset: 0, 0
+  index: -1
+egg02
+  rotate: true
+  xy: 133, 169
+  size: 115, 146
+  orig: 125, 155
+  offset: 5, 5
+  index: -1
+star/s1
+  rotate: true
+  xy: 241, 17
+  size: 69, 47
+  orig: 262, 262
+  offset: 101, 78
+  index: -1
+star/s2
+  rotate: true
+  xy: 300, 72
+  size: 111, 83
+  orig: 262, 262
+  offset: 85, 103
+  index: -1
+star/s3
+  rotate: false
+  xy: 128, 2
+  size: 111, 84
+  orig: 262, 262
+  offset: 85, 104
+  index: -1
+star/s4
+  rotate: false
+  xy: 2, 39
+  size: 124, 98
+  orig: 262, 262
+  offset: 80, 112
+  index: -1
+wo1
+  rotate: false
+  xy: 133, 88
+  size: 165, 79
+  orig: 166, 80
+  offset: 1, 0
+  index: -1
+wo2
+  rotate: false
+  xy: 133, 88
+  size: 165, 79
+  orig: 166, 80
+  offset: 1, 0
+  index: -1
+yz
+  rotate: false
+  xy: 290, 5
+  size: 79, 65
+  orig: 89, 68
+  offset: 5, 2
+  index: -1

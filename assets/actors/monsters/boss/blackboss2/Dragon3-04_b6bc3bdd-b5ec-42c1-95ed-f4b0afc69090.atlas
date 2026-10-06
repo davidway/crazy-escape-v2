@@ -1,0 +1,237 @@
+
+Dragon3-04.png
+size: 1420,778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MoLong3-04/01Fire/eye11
+  rotate: false
+  xy: 1263, 20
+  size: 71, 57
+  orig: 75, 59
+  offset: 2, 1
+  index: -1
+MoLong3-04/01Fire/f1
+  rotate: true
+  xy: 1028, 584
+  size: 192, 388
+  orig: 300, 450
+  offset: 51, 11
+  index: -1
+MoLong3-04/01Fire/f2
+  rotate: true
+  xy: 624, 376
+  size: 190, 393
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+MoLong3-04/01Fire/f3
+  rotate: true
+  xy: 631, 568
+  size: 208, 395
+  orig: 300, 450
+  offset: 27, 12
+  index: -1
+MoLong3-04/01Fire/f4
+  rotate: false
+  xy: 2, 354
+  size: 199, 422
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+MoLong3-04/01Fire/f5
+  rotate: true
+  xy: 203, 581
+  size: 195, 426
+  orig: 300, 450
+  offset: 51, 12
+  index: -1
+MoLong3-04/01Fire/f6
+  rotate: true
+  xy: 203, 386
+  size: 193, 419
+  orig: 300, 450
+  offset: 50, 11
+  index: -1
+MoLong3-04/images/Body
+  rotate: false
+  xy: 536, 42
+  size: 306, 157
+  orig: 306, 157
+  offset: 0, 0
+  index: -1
+MoLong3-04/images/Ear_L_S
+  rotate: true
+  xy: 536, 2
+  size: 38, 119
+  orig: 38, 119
+  offset: 0, 0
+  index: -1
+MoLong3-04/images/Ear_L_X
+  rotate: false
+  xy: 1355, 384
+  size: 41, 77
+  orig: 41, 77
+  offset: 0, 0
+  index: -1
+MoLong3-04/images/Ear_R_S
+  rotate: false
+  xy: 1106, 378
+  size: 127, 108
+  orig: 127, 108
+  offset: 0, 0
+  index: -1
+MoLong3-04/images/Ear_R_X
+  rotate: true
+  xy: 1200, 115
+  size: 136, 62
+  orig: 136, 62
+  offset: 0, 0
+  index: -1
+MoLong3-04/images/Eye
+  rotate: false
+  xy: 1200, 49
+  size: 61, 64
+  orig: 64, 67
+  offset: 2, 2
+  index: -1
+MoLong3-04/images/Foot_L_S
+  rotate: false
+  xy: 1264, 152
+  size: 86, 106
+  orig: 88, 108
+  offset: 1, 1
+  index: -1
+MoLong3-04/images/Foot_R_S
+  rotate: false
+  xy: 1264, 152
+  size: 86, 106
+  orig: 88, 108
+  offset: 1, 1
+  index: -1
+MoLong3-04/images/Foot_L_X
+  rotate: false
+  xy: 1210, 260
+  size: 103, 104
+  orig: 105, 106
+  offset: 1, 1
+  index: -1
+MoLong3-04/images/Foot_R_X
+  rotate: false
+  xy: 1315, 260
+  size: 103, 104
+  orig: 105, 106
+  offset: 1, 1
+  index: -1
+MoLong3-04/images/Hair-1
+  rotate: true
+  xy: 1235, 366
+  size: 95, 118
+  orig: 95, 118
+  offset: 0, 0
+  index: -1
+MoLong3-04/images/Hair-2
+  rotate: false
+  xy: 858, 195
+  size: 252, 179
+  orig: 252, 179
+  offset: 0, 0
+  index: -1
+MoLong3-04/images/Hair-3
+  rotate: false
+  xy: 1123, 55
+  size: 75, 196
+  orig: 75, 196
+  offset: 0, 0
+  index: -1
+MoLong3-04/images/Hair-4
+  rotate: true
+  xy: 2, 13
+  size: 339, 235
+  orig: 339, 235
+  offset: 0, 0
+  index: -1
+MoLong3-04/images/Hand_L_S
+  rotate: false
+  xy: 1336, 12
+  size: 58, 65
+  orig: 60, 67
+  offset: 1, 1
+  index: -1
+MoLong3-04/images/Hand_L_X
+  rotate: false
+  xy: 1019, 376
+  size: 85, 110
+  orig: 85, 110
+  offset: 0, 0
+  index: -1
+MoLong3-04/images/Hand_R_S
+  rotate: false
+  xy: 1352, 172
+  size: 54, 86
+  orig: 56, 88
+  offset: 1, 1
+  index: -1
+MoLong3-04/images/Hand_R_X
+  rotate: true
+  xy: 1264, 79
+  size: 71, 103
+  orig: 73, 105
+  offset: 1, 1
+  index: -1
+MoLong3-04/images/Head
+  rotate: true
+  xy: 1239, 463
+  size: 119, 155
+  orig: 121, 157
+  offset: 1, 1
+  index: -1
+MoLong3-04/images/Neck
+  rotate: true
+  xy: 520, 201
+  size: 173, 336
+  orig: 173, 336
+  offset: 0, 0
+  index: -1
+MoLong3-04/images/Tail
+  rotate: false
+  xy: 239, 127
+  size: 279, 257
+  orig: 279, 257
+  offset: 0, 0
+  index: -1
+VFX_01
+  rotate: false
+  xy: 1112, 253
+  size: 96, 123
+  orig: 109, 133
+  offset: 8, 5
+  index: -1
+VFX_02
+  rotate: false
+  xy: 844, 34
+  size: 277, 159
+  orig: 285, 169
+  offset: 4, 5
+  index: -1
+VFX_03
+  rotate: false
+  xy: 239, 9
+  size: 295, 116
+  orig: 303, 125
+  offset: 4, 5
+  index: -1
+VFX_04
+  rotate: false
+  xy: 1028, 488
+  size: 209, 94
+  orig: 218, 103
+  offset: 4, 5
+  index: -1
+YZ
+  rotate: false
+  xy: 657, 21
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1

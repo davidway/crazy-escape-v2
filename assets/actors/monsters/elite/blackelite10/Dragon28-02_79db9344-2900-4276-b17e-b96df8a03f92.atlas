@@ -1,0 +1,188 @@
+
+Dragon28-02.png
+size: 1993,620
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MoLong28-02/01Fire/eye11
+  rotate: false
+  xy: 363, 133
+  size: 71, 57
+  orig: 75, 59
+  offset: 2, 1
+  index: -1
+MoLong28-02/01Fire/f1
+  rotate: true
+  xy: 573, 2
+  size: 192, 388
+  orig: 300, 450
+  offset: 51, 11
+  index: -1
+MoLong28-02/01Fire/f2
+  rotate: false
+  xy: 1350, 225
+  size: 190, 393
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+MoLong28-02/01Fire/f3
+  rotate: true
+  xy: 963, 4
+  size: 208, 395
+  orig: 300, 450
+  offset: 27, 12
+  index: -1
+MoLong28-02/01Fire/f4
+  rotate: false
+  xy: 560, 196
+  size: 199, 422
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+MoLong28-02/01Fire/f5
+  rotate: false
+  xy: 363, 192
+  size: 195, 426
+  orig: 300, 450
+  offset: 51, 12
+  index: -1
+MoLong28-02/01Fire/f6
+  rotate: false
+  xy: 761, 199
+  size: 193, 419
+  orig: 300, 450
+  offset: 50, 11
+  index: -1
+MoLong28-02/images/Body
+  rotate: false
+  xy: 1360, 3
+  size: 301, 220
+  orig: 301, 220
+  offset: 0, 0
+  index: -1
+MoLong28-02/images/Eye_Cl
+  rotate: false
+  xy: 1542, 523
+  size: 105, 95
+  orig: 107, 97
+  offset: 1, 1
+  index: -1
+MoLong28-02/images/Eye_OP
+  rotate: false
+  xy: 1542, 426
+  size: 105, 95
+  orig: 107, 97
+  offset: 1, 1
+  index: -1
+MoLong28-02/images/Fly_L
+  rotate: false
+  xy: 1663, 318
+  size: 328, 300
+  orig: 328, 300
+  offset: 0, 0
+  index: -1
+MoLong28-02/images/Fly_R
+  rotate: false
+  xy: 956, 214
+  size: 392, 404
+  orig: 392, 404
+  offset: 0, 0
+  index: -1
+MoLong28-02/images/Foot_L_S
+  rotate: true
+  xy: 103, 7
+  size: 120, 98
+  orig: 122, 101
+  offset: 1, 2
+  index: -1
+MoLong28-02/images/Foot_L_X
+  rotate: true
+  xy: 319, 17
+  size: 110, 90
+  orig: 114, 92
+  offset: 1, 1
+  index: -1
+MoLong28-02/images/Foot_R_S
+  rotate: true
+  xy: 203, 9
+  size: 118, 114
+  orig: 120, 116
+  offset: 1, 1
+  index: -1
+MoLong28-02/images/Foot_R_X
+  rotate: true
+  xy: 2, 3
+  size: 124, 99
+  orig: 131, 101
+  offset: 3, 1
+  index: -1
+MoLong28-02/images/Hand_L_E
+  rotate: true
+  xy: 1542, 319
+  size: 105, 82
+  orig: 107, 85
+  offset: 1, 1
+  index: -1
+MoLong28-02/images/Hand_L_S
+  rotate: true
+  xy: 503, 150
+  size: 40, 68
+  orig: 42, 70
+  offset: 1, 1
+  index: -1
+MoLong28-02/images/Hand_L_X
+  rotate: false
+  xy: 1814, 237
+  size: 66, 79
+  orig: 70, 82
+  offset: 1, 2
+  index: -1
+MoLong28-02/images/Hand_R_E
+  rotate: true
+  xy: 432, 22
+  size: 109, 76
+  orig: 111, 78
+  offset: 1, 1
+  index: -1
+MoLong28-02/images/Hand_R_S
+  rotate: false
+  xy: 1882, 237
+  size: 63, 79
+  orig: 66, 81
+  offset: 1, 1
+  index: -1
+MoLong28-02/images/Hand_R_X
+  rotate: false
+  xy: 436, 138
+  size: 65, 52
+  orig: 67, 54
+  offset: 1, 1
+  index: -1
+MoLong28-02/images/Head_1
+  rotate: true
+  xy: 2, 129
+  size: 489, 359
+  orig: 491, 361
+  offset: 1, 1
+  index: -1
+MoLong28-02/images/Head_2
+  rotate: false
+  xy: 1663, 34
+  size: 258, 196
+  orig: 260, 198
+  offset: 1, 1
+  index: -1
+MoLong28-02/images/Tail
+  rotate: false
+  xy: 1542, 232
+  size: 270, 84
+  orig: 270, 84
+  offset: 0, 0
+  index: -1
+YZ
+  rotate: true
+  xy: 411, 3
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+kl.png
+size: 265,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0Kulou4/eye
+  rotate: true
+  xy: 208, 430
+  size: 109, 30
+  orig: 117, 39
+  offset: 5, 7
+  index: -1
+0Kulou4/head
+  rotate: true
+  xy: 2, 754
+  size: 268, 260
+  orig: 268, 260
+  offset: 0, 0
+  index: -1
+0Kulou4/shenti
+  rotate: true
+  xy: 2, 114
+  size: 154, 166
+  orig: 165, 166
+  offset: 11, 0
+  index: -1
+0Kulou4/shou-l
+  rotate: true
+  xy: 191, 296
+  size: 60, 71
+  orig: 66, 77
+  offset: 3, 3
+  index: -1
+0Kulou4/shou-r
+  rotate: false
+  xy: 72, 2
+  size: 66, 48
+  orig: 73, 55
+  offset: 4, 3
+  index: -1
+0Kulou4/shouwan-l
+  rotate: true
+  xy: 72, 52
+  size: 60, 94
+  orig: 66, 101
+  offset: 3, 4
+  index: -1
+0Kulou4/shouwan-r
+  rotate: false
+  xy: 170, 19
+  size: 87, 120
+  orig: 87, 132
+  offset: 0, 12
+  index: -1
+0Kulou4/shouzhi-l
+  rotate: false
+  xy: 208, 358
+  size: 48, 70
+  orig: 55, 76
+  offset: 4, 3
+  index: -1
+0Kulou4/weijin
+  rotate: false
+  xy: 2, 578
+  size: 256, 174
+  orig: 256, 174
+  offset: 0, 0
+  index: -1
+0Kulou4/yiling
+  rotate: true
+  xy: 191, 208
+  size: 86, 69
+  orig: 92, 75
+  offset: 3, 3
+  index: -1
+ZhuJue04/Magic wand
+  rotate: true
+  xy: 2, 270
+  size: 108, 187
+  orig: 114, 193
+  offset: 3, 3
+  index: -1
+ZhuJue04/cap3
+  rotate: false
+  xy: 2, 380
+  size: 204, 159
+  orig: 206, 161
+  offset: 1, 1
+  index: -1
+ZhuJue04/l_foot
+  rotate: true
+  xy: 170, 141
+  size: 65, 93
+  orig: 69, 97
+  offset: 2, 2
+  index: -1
+ZhuJue04/r_foot
+  rotate: false
+  xy: 2, 12
+  size: 68, 100
+  orig: 72, 104
+  offset: 2, 2
+  index: -1
+biyan
+  rotate: true
+  xy: 245, 457
+  size: 119, 17
+  orig: 122, 20
+  offset: 2, 1
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 541
+  size: 241, 35
+  orig: 243, 37
+  offset: 1, 1
+  index: -1

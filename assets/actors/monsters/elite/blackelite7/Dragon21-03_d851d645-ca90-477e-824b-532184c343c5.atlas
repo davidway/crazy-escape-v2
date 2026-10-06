@@ -1,0 +1,153 @@
+
+Dragon21-03.png
+size: 1951,397
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MoLong21-03/01Fire/eye11
+  rotate: true
+  xy: 840, 45
+  size: 71, 57
+  orig: 75, 59
+  offset: 2, 1
+  index: -1
+MoLong21-03/01Fire/f1
+  rotate: true
+  xy: 907, 2
+  size: 192, 388
+  orig: 300, 450
+  offset: 51, 11
+  index: -1
+MoLong21-03/01Fire/f2
+  rotate: false
+  xy: 1759, 2
+  size: 190, 393
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+MoLong21-03/01Fire/f3
+  rotate: true
+  xy: 510, 187
+  size: 208, 395
+  orig: 300, 450
+  offset: 27, 12
+  index: -1
+MoLong21-03/01Fire/f4
+  rotate: true
+  xy: 907, 196
+  size: 199, 422
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+MoLong21-03/01Fire/f5
+  rotate: true
+  xy: 1331, 200
+  size: 195, 426
+  orig: 300, 450
+  offset: 51, 12
+  index: -1
+MoLong21-03/01Fire/f6
+  rotate: true
+  xy: 1331, 5
+  size: 193, 419
+  orig: 300, 450
+  offset: 50, 11
+  index: -1
+MoLong21-03/images/Body
+  rotate: false
+  xy: 258, 186
+  size: 250, 209
+  orig: 250, 209
+  offset: 0, 0
+  index: -1
+MoLong21-03/images/Eye
+  rotate: false
+  xy: 840, 118
+  size: 59, 67
+  orig: 62, 69
+  offset: 1, 1
+  index: -1
+MoLong21-03/images/Foot_L_S
+  rotate: true
+  xy: 162, 13
+  size: 47, 70
+  orig: 49, 72
+  offset: 1, 1
+  index: -1
+MoLong21-03/images/Foot_L_X
+  rotate: true
+  xy: 65, 27
+  size: 53, 95
+  orig: 53, 95
+  offset: 0, 0
+  index: -1
+MoLong21-03/images/Foot_R_S
+  rotate: true
+  xy: 2, 82
+  size: 79, 177
+  orig: 81, 179
+  offset: 1, 1
+  index: -1
+MoLong21-03/images/Foot_R_X
+  rotate: false
+  xy: 437, 77
+  size: 67, 107
+  orig: 67, 107
+  offset: 0, 0
+  index: -1
+MoLong21-03/images/Foot_R_X2
+  rotate: false
+  xy: 234, 15
+  size: 43, 43
+  orig: 45, 45
+  offset: 1, 1
+  index: -1
+MoLong21-03/images/Hand_L_S
+  rotate: false
+  xy: 181, 62
+  size: 74, 99
+  orig: 76, 101
+  offset: 1, 1
+  index: -1
+MoLong21-03/images/Hand_L_X
+  rotate: false
+  xy: 437, 3
+  size: 56, 72
+  orig: 58, 74
+  offset: 1, 1
+  index: -1
+MoLong21-03/images/Hand_R_S
+  rotate: true
+  xy: 258, 60
+  size: 124, 177
+  orig: 126, 179
+  offset: 1, 1
+  index: -1
+MoLong21-03/images/Hand_R_X
+  rotate: true
+  xy: 2, 23
+  size: 57, 61
+  orig: 59, 63
+  offset: 1, 1
+  index: -1
+MoLong21-03/images/Head
+  rotate: false
+  xy: 2, 163
+  size: 254, 232
+  orig: 254, 232
+  offset: 0, 0
+  index: -1
+MoLong21-03/images/Tail
+  rotate: true
+  xy: 510, 20
+  size: 165, 328
+  orig: 165, 328
+  offset: 0, 0
+  index: -1
+YZ
+  rotate: true
+  xy: 1297, 66
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1

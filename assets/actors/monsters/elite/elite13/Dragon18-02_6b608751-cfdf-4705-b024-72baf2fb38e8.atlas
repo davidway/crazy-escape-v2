@@ -1,0 +1,97 @@
+
+Dragon18-02.png
+size: 1389,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YZ
+  rotate: false
+  xy: 852, 9
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 1091, 6
+  size: 147, 106
+  orig: 177, 113
+  offset: 25, 4
+  index: -1
+body
+  rotate: true
+  xy: 1131, 122
+  size: 144, 180
+  orig: 146, 182
+  offset: 1, 1
+  index: -1
+datui-l
+  rotate: false
+  xy: 1240, 21
+  size: 73, 99
+  orig: 76, 101
+  offset: 1, 1
+  index: -1
+datui-r
+  rotate: false
+  xy: 1313, 177
+  size: 74, 89
+  orig: 76, 91
+  offset: 1, 1
+  index: -1
+jiao-l
+  rotate: false
+  xy: 1315, 84
+  size: 36, 91
+  orig: 38, 93
+  offset: 1, 1
+  index: -1
+jiao-r
+  rotate: false
+  xy: 1353, 84
+  size: 30, 91
+  orig: 32, 93
+  offset: 1, 1
+  index: -1
+mao
+  rotate: true
+  xy: 689, 2
+  size: 264, 161
+  orig: 264, 161
+  offset: 0, 0
+  index: -1
+shouwan1-l
+  rotate: true
+  xy: 852, 114
+  size: 152, 277
+  orig: 152, 277
+  offset: 0, 0
+  index: -1
+shouwan1-r
+  rotate: false
+  xy: 516, 3
+  size: 171, 263
+  orig: 171, 263
+  offset: 0, 0
+  index: -1
+shouwan2-l
+  rotate: false
+  xy: 307, 7
+  size: 207, 259
+  orig: 207, 259
+  offset: 0, 0
+  index: -1
+shouwan2-r
+  rotate: true
+  xy: 852, 30
+  size: 82, 237
+  orig: 82, 237
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 3
+  size: 303, 263
+  orig: 305, 265
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,104 @@
+
+Dragon6-02.png
+size: 578,578
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 223
+  size: 304, 353
+  orig: 307, 356
+  offset: 1, 1
+  index: -1
+Eye
+  rotate: true
+  xy: 518, 20
+  size: 48, 45
+  orig: 57, 45
+  offset: 4, 0
+  index: -1
+Foot_L_S
+  rotate: true
+  xy: 442, 16
+  size: 52, 74
+  orig: 60, 74
+  offset: 4, 0
+  index: -1
+Foot_L_X
+  rotate: false
+  xy: 459, 70
+  size: 71, 70
+  orig: 79, 70
+  offset: 4, 0
+  index: -1
+Foot_R_S
+  rotate: false
+  xy: 360, 138
+  size: 97, 126
+  orig: 105, 126
+  offset: 4, 0
+  index: -1
+Foot_R_X
+  rotate: true
+  xy: 345, 6
+  size: 71, 95
+  orig: 79, 95
+  offset: 4, 0
+  index: -1
+Hand_L_S
+  rotate: true
+  xy: 360, 79
+  size: 57, 97
+  orig: 65, 97
+  offset: 4, 0
+  index: -1
+Hand_L_X
+  rotate: true
+  xy: 252, 2
+  size: 77, 91
+  orig: 85, 91
+  offset: 4, 0
+  index: -1
+Hand_R_S
+  rotate: false
+  xy: 252, 81
+  size: 106, 140
+  orig: 114, 140
+  offset: 4, 0
+  index: -1
+Hand_R_X
+  rotate: false
+  xy: 459, 142
+  size: 73, 122
+  orig: 81, 122
+  offset: 4, 0
+  index: -1
+Head
+  rotate: false
+  xy: 308, 391
+  size: 230, 185
+  orig: 238, 185
+  offset: 4, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 308, 266
+  size: 123, 233
+  orig: 127, 235
+  offset: 1, 1
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 42
+  size: 248, 179
+  orig: 249, 183
+  offset: 1, 2
+  index: -1
+YZ
+  rotate: true
+  xy: 540, 448
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1

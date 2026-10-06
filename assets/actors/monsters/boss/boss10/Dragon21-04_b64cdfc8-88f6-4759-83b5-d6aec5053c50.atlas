@@ -1,0 +1,153 @@
+
+Dragon21-04.png
+size: 684,684
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 72
+  size: 278, 395
+  orig: 280, 398
+  offset: 2, 2
+  index: -1
+Eye
+  rotate: true
+  xy: 211, 3
+  size: 46, 68
+  orig: 54, 68
+  offset: 4, 0
+  index: -1
+Foot_L_E
+  rotate: false
+  xy: 2, 21
+  size: 102, 49
+  orig: 111, 49
+  offset: 4, 0
+  index: -1
+Foot_L_S
+  rotate: false
+  xy: 399, 226
+  size: 105, 124
+  orig: 113, 124
+  offset: 4, 0
+  index: -1
+Foot_L_X
+  rotate: true
+  xy: 399, 12
+  size: 91, 122
+  orig: 96, 126
+  offset: 3, 3
+  index: -1
+Foot_R_E
+  rotate: false
+  xy: 587, 227
+  size: 92, 75
+  orig: 100, 75
+  offset: 4, 0
+  index: -1
+Foot_R_S
+  rotate: false
+  xy: 594, 304
+  size: 88, 161
+  orig: 96, 161
+  offset: 4, 0
+  index: -1
+Foot_R_X
+  rotate: true
+  xy: 503, 118
+  size: 106, 99
+  orig: 108, 103
+  offset: 1, 2
+  index: -1
+Hand_L_S
+  rotate: false
+  xy: 604, 140
+  size: 58, 85
+  orig: 66, 85
+  offset: 4, 0
+  index: -1
+Hand_L_X
+  rotate: true
+  xy: 523, 13
+  size: 103, 101
+  orig: 111, 101
+  offset: 4, 0
+  index: -1
+Hand_R_S
+  rotate: false
+  xy: 399, 105
+  size: 102, 119
+  orig: 110, 119
+  offset: 4, 0
+  index: -1
+Hand_R_X
+  rotate: true
+  xy: 506, 260
+  size: 92, 79
+  orig: 101, 79
+  offset: 4, 0
+  index: -1
+Head
+  rotate: false
+  xy: 416, 467
+  size: 252, 215
+  orig: 253, 217
+  offset: 0, 2
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 352
+  size: 412, 330
+  orig: 414, 334
+  offset: 1, 1
+  index: -1
+Vfx-1
+  rotate: true
+  xy: 506, 236
+  size: 22, 43
+  orig: 23, 43
+  offset: 1, 0
+  index: -1
+Vfx-2
+  rotate: false
+  xy: 281, 5
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Vfx-2 -2
+  rotate: false
+  xy: 626, 11
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Vfx-3
+  rotate: true
+  xy: 626, 57
+  size: 81, 56
+  orig: 84, 56
+  offset: 1, 0
+  index: -1
+Vfx-4
+  rotate: true
+  xy: 106, 26
+  size: 44, 103
+  orig: 44, 103
+  offset: 0, 0
+  index: -1
+Wind
+  rotate: false
+  xy: 416, 354
+  size: 176, 111
+  orig: 184, 111
+  offset: 4, 0
+  index: -1
+YZ
+  rotate: false
+  xy: 211, 51
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1

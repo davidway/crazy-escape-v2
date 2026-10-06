@@ -1,0 +1,139 @@
+
+SIShen.png
+size: 1390,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YZ
+  rotate: true
+  xy: 842, 4
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 573, 134
+  size: 314, 355
+  orig: 314, 355
+  offset: 0, 0
+  index: -1
+fx/0
+  rotate: true
+  xy: 986, 24
+  size: 54, 63
+  orig: 307, 125
+  offset: 253, 36
+  index: -1
+fx/1
+  rotate: false
+  xy: 889, 153
+  size: 261, 112
+  orig: 307, 125
+  offset: 20, 13
+  index: -1
+fx/2
+  rotate: false
+  xy: 1144, 386
+  size: 215, 103
+  orig: 307, 125
+  offset: 11, 8
+  index: -1
+fx/3
+  rotate: false
+  xy: 1059, 60
+  size: 152, 91
+  orig: 307, 125
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 889, 267
+  size: 253, 222
+  orig: 255, 224
+  offset: 1, 1
+  index: -1
+knife
+  rotate: true
+  xy: 2, 5
+  size: 484, 569
+  orig: 486, 571
+  offset: 1, 1
+  index: -1
+lhand_01.1
+  rotate: true
+  xy: 889, 80
+  size: 71, 168
+  orig: 77, 168
+  offset: 6, 0
+  index: -1
+lhand_01.2
+  rotate: true
+  xy: 1144, 301
+  size: 83, 170
+  orig: 83, 170
+  offset: 0, 0
+  index: -1
+lhand_03
+  rotate: true
+  xy: 863, 22
+  size: 56, 121
+  orig: 56, 121
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 1213, 9
+  size: 99, 146
+  orig: 101, 148
+  offset: 1, 1
+  index: -1
+rhand_01.1
+  rotate: false
+  xy: 1152, 157
+  size: 152, 142
+  orig: 152, 142
+  offset: 0, 0
+  index: -1
+rhand_01.2
+  rotate: true
+  xy: 1316, 270
+  size: 114, 54
+  orig: 146, 58
+  offset: 0, 4
+  index: -1
+rhand_02
+  rotate: false
+  xy: 1314, 99
+  size: 55, 62
+  orig: 57, 64
+  offset: 1, 1
+  index: -1
+rhand_02.1
+  rotate: false
+  xy: 1314, 36
+  size: 51, 61
+  orig: 53, 63
+  offset: 1, 1
+  index: -1
+rhand_02.2
+  rotate: false
+  xy: 1051, 12
+  size: 61, 46
+  orig: 63, 48
+  offset: 1, 1
+  index: -1
+rhand_03
+  rotate: false
+  xy: 1306, 163
+  size: 82, 105
+  orig: 82, 105
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: true
+  xy: 573, 2
+  size: 130, 267
+  orig: 130, 267
+  offset: 0, 0
+  index: -1

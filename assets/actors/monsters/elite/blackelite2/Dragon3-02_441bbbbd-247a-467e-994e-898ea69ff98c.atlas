@@ -1,0 +1,146 @@
+
+Dragon3-02.png
+size: 1739,398
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MoLong3-02/images/Body
+  rotate: true
+  xy: 2, 136
+  size: 260, 294
+  orig: 260, 294
+  offset: 0, 0
+  index: -1
+MoLong3-02/images/Eye
+  rotate: true
+  xy: 75, 25
+  size: 42, 51
+  orig: 45, 53
+  offset: 2, 1
+  index: -1
+MoLong3-02/images/Foot_L_S
+  rotate: false
+  xy: 258, 20
+  size: 35, 48
+  orig: 37, 50
+  offset: 1, 1
+  index: -1
+MoLong3-02/images/Foot_L_X
+  rotate: false
+  xy: 231, 10
+  size: 25, 58
+  orig: 27, 60
+  offset: 1, 1
+  index: -1
+MoLong3-02/images/Foot_R_S
+  rotate: true
+  xy: 2, 69
+  size: 65, 74
+  orig: 67, 76
+  offset: 1, 1
+  index: -1
+MoLong3-02/images/Foot_R_X
+  rotate: false
+  xy: 242, 70
+  size: 44, 64
+  orig: 46, 66
+  offset: 1, 1
+  index: -1
+MoLong3-02/images/Hand_L_S
+  rotate: true
+  xy: 146, 78
+  size: 56, 94
+  orig: 58, 96
+  offset: 1, 1
+  index: -1
+MoLong3-02/images/Hand_L_X
+  rotate: false
+  xy: 1085, 136
+  size: 31, 59
+  orig: 33, 61
+  offset: 1, 1
+  index: -1
+MoLong3-02/images/Hand_R_S
+  rotate: true
+  xy: 78, 69
+  size: 65, 66
+  orig: 67, 68
+  offset: 1, 1
+  index: -1
+MoLong3-02/images/Hand_R_X
+  rotate: true
+  xy: 146, 21
+  size: 55, 83
+  orig: 57, 85
+  offset: 1, 1
+  index: -1
+MoLong3-02/images/Head
+  rotate: false
+  xy: 298, 35
+  size: 249, 151
+  orig: 249, 151
+  offset: 0, 0
+  index: -1
+MoLong3-02/images/Tail
+  rotate: true
+  xy: 549, 2
+  size: 184, 143
+  orig: 184, 143
+  offset: 0, 0
+  index: -1
+MoLong3-02/images/eye11
+  rotate: false
+  xy: 2, 10
+  size: 71, 57
+  orig: 75, 59
+  offset: 2, 1
+  index: -1
+MoLong3-02/images/f1
+  rotate: true
+  xy: 695, 3
+  size: 192, 388
+  orig: 300, 450
+  offset: 51, 11
+  index: -1
+MoLong3-02/images/f2
+  rotate: false
+  xy: 1547, 3
+  size: 190, 393
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+MoLong3-02/images/f3
+  rotate: true
+  xy: 298, 188
+  size: 208, 395
+  orig: 300, 450
+  offset: 27, 12
+  index: -1
+MoLong3-02/images/f4
+  rotate: true
+  xy: 695, 197
+  size: 199, 422
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+MoLong3-02/images/f5
+  rotate: true
+  xy: 1119, 201
+  size: 195, 426
+  orig: 300, 450
+  offset: 51, 12
+  index: -1
+MoLong3-02/images/f6
+  rotate: true
+  xy: 1119, 6
+  size: 193, 419
+  orig: 300, 450
+  offset: 50, 11
+  index: -1
+YZ
+  rotate: true
+  xy: 1085, 6
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1

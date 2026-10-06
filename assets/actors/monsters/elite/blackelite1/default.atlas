@@ -1,0 +1,188 @@
+
+default.png
+size: 2006,398
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01Fire/f1
+  rotate: true
+  xy: 1251, 12
+  size: 192, 388
+  orig: 300, 450
+  offset: 51, 11
+  index: -1
+01Fire/f2
+  rotate: true
+  xy: 1251, 206
+  size: 190, 393
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+01Fire/f3
+  rotate: true
+  xy: 854, 188
+  size: 208, 395
+  orig: 300, 450
+  offset: 27, 12
+  index: -1
+01Fire/f4
+  rotate: true
+  xy: 2, 197
+  size: 199, 422
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+01Fire/f5
+  rotate: true
+  xy: 426, 201
+  size: 195, 426
+  orig: 300, 450
+  offset: 51, 12
+  index: -1
+01Fire/f6
+  rotate: true
+  xy: 2, 2
+  size: 193, 419
+  orig: 300, 450
+  offset: 50, 11
+  index: -1
+02-02bu/images/Body
+  rotate: false
+  xy: 426, 31
+  size: 227, 168
+  orig: 227, 168
+  offset: 0, 0
+  index: -1
+02-02bu/images/Eye1
+  rotate: false
+  xy: 1854, 28
+  size: 93, 76
+  orig: 96, 80
+  offset: 2, 2
+  index: -1
+02-02bu/images/Foot_L_E
+  rotate: true
+  xy: 1949, 20
+  size: 95, 44
+  orig: 97, 128
+  offset: 1, 2
+  index: -1
+02-02bu/images/Foot_L_S
+  rotate: false
+  xy: 1121, 78
+  size: 84, 108
+  orig: 86, 110
+  offset: 1, 1
+  index: -1
+02-02bu/images/Foot_L_X
+  rotate: false
+  xy: 1758, 27
+  size: 94, 77
+  orig: 96, 79
+  offset: 1, 1
+  index: -1
+02-02bu/images/Foot_L_Z
+  rotate: true
+  xy: 1019, 2
+  size: 59, 37
+  orig: 61, 44
+  offset: 1, 2
+  index: -1
+02-02bu/images/Foot_R_E
+  rotate: true
+  xy: 1943, 190
+  size: 98, 55
+  orig: 100, 57
+  offset: 1, 1
+  index: -1
+02-02bu/images/Foot_R_S
+  rotate: false
+  xy: 954, 63
+  size: 82, 123
+  orig: 84, 125
+  offset: 1, 1
+  index: -1
+02-02bu/images/Foot_R_X
+  rotate: false
+  xy: 1038, 72
+  size: 81, 114
+  orig: 83, 127
+  offset: 1, 2
+  index: -1
+02-02bu/images/Foot_R_Z
+  rotate: true
+  xy: 954, 2
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+02-02bu/images/Hand_L_E
+  rotate: false
+  xy: 1121, 2
+  size: 74, 74
+  orig: 76, 76
+  offset: 1, 1
+  index: -1
+02-02bu/images/Hand_L_S
+  rotate: true
+  xy: 1641, 31
+  size: 73, 115
+  orig: 73, 115
+  offset: 0, 0
+  index: -1
+02-02bu/images/Hand_L_X
+  rotate: true
+  xy: 1207, 136
+  size: 50, 39
+  orig: 52, 41
+  offset: 1, 1
+  index: -1
+02-02bu/images/Hand_R_E
+  rotate: false
+  xy: 1943, 290
+  size: 61, 106
+  orig: 63, 108
+  offset: 1, 1
+  index: -1
+02-02bu/images/Hand_R_S
+  rotate: false
+  xy: 655, 72
+  size: 84, 127
+  orig: 86, 129
+  offset: 1, 1
+  index: -1
+02-02bu/images/Hand_R_X
+  rotate: false
+  xy: 655, 25
+  size: 51, 45
+  orig: 54, 48
+  offset: 2, 2
+  index: -1
+02-02bu/images/Head
+  rotate: false
+  xy: 1646, 106
+  size: 295, 290
+  orig: 297, 293
+  offset: 1, 1
+  index: -1
+02-02bu/images/Tail
+  rotate: true
+  xy: 741, 11
+  size: 175, 211
+  orig: 175, 211
+  offset: 0, 0
+  index: -1
+02-02bu/images/eye11
+  rotate: true
+  xy: 1943, 117
+  size: 71, 57
+  orig: 75, 59
+  offset: 2, 1
+  index: -1
+Dragon2-02/YZ
+  rotate: false
+  xy: 423, 10
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1

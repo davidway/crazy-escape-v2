@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 1875,1106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JS-1
+  rotate: false
+  xy: 1121, 91
+  size: 241, 281
+  orig: 285, 308
+  offset: 25, 15
+  index: -1
+JS-2
+  rotate: false
+  xy: 650, 66
+  size: 469, 469
+  orig: 473, 473
+  offset: 2, 2
+  index: -1
+JS-4
+  rotate: true
+  xy: 650, 537
+  size: 243, 1221
+  orig: 295, 1225
+  offset: 26, 0
+  index: -1
+JS-5
+  rotate: true
+  xy: 650, 782
+  size: 324, 1225
+  orig: 324, 1225
+  offset: 0, 0
+  index: -1
+JS-6
+  rotate: false
+  xy: 0, 0
+  size: 648, 1106
+  orig: 664, 1125
+  offset: 8, 1
+  index: -1
+JS-7
+  rotate: false
+  xy: 1121, 374
+  size: 440, 161
+  orig: 476, 175
+  offset: 18, 7
+  index: -1
+LIZI/LIZI_00000
+  rotate: true
+  xy: 1471, 274
+  size: 98, 93
+  orig: 200, 400
+  offset: 50, 5
+  index: -1
+LIZI/LIZI_00003
+  rotate: false
+  xy: 1364, 112
+  size: 102, 107
+  orig: 200, 400
+  offset: 48, 45
+  index: -1
+LIZI/LIZI_00006
+  rotate: false
+  xy: 1364, 221
+  size: 105, 151
+  orig: 200, 400
+  offset: 44, 80
+  index: -1
+LIZI/LIZI_00009
+  rotate: true
+  xy: 1563, 428
+  size: 107, 183
+  orig: 200, 400
+  offset: 50, 109
+  index: -1
+LIZI/LIZI_00012
+  rotate: true
+  xy: 1748, 443
+  size: 92, 120
+  orig: 200, 400
+  offset: 67, 241
+  index: -1

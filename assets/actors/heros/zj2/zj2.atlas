@@ -1,0 +1,90 @@
+
+zj2.png
+size: 933,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 331, 4
+  size: 137, 65
+  orig: 140, 68
+  offset: 2, 2
+  index: -1
+images/body
+  rotate: false
+  xy: 469, 88
+  size: 178, 179
+  orig: 182, 183
+  offset: 2, 2
+  index: -1
+images/gj_01
+  rotate: false
+  xy: 811, 2
+  size: 120, 117
+  orig: 126, 124
+  offset: 3, 3
+  index: -1
+images/gj_02
+  rotate: true
+  xy: 709, 7
+  size: 103, 100
+  orig: 109, 106
+  offset: 3, 3
+  index: -1
+images/l_foot
+  rotate: false
+  xy: 840, 174
+  size: 65, 93
+  orig: 68, 97
+  offset: 1, 2
+  index: -1
+images/l_hand_1
+  rotate: false
+  xy: 740, 121
+  size: 98, 146
+  orig: 100, 150
+  offset: 1, 2
+  index: -1
+images/pifeng
+  rotate: false
+  xy: 331, 71
+  size: 136, 196
+  orig: 140, 200
+  offset: 2, 2
+  index: -1
+images/r_ear
+  rotate: false
+  xy: 2, 4
+  size: 290, 263
+  orig: 294, 269
+  offset: 2, 3
+  index: -1
+images/r_foot
+  rotate: true
+  xy: 470, 18
+  size: 68, 100
+  orig: 72, 104
+  offset: 2, 2
+  index: -1
+images/r_hand_1
+  rotate: false
+  xy: 649, 112
+  size: 89, 155
+  orig: 89, 155
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 294, 26
+  size: 241, 35
+  orig: 243, 37
+  offset: 1, 1
+  index: -1
+zhengyan
+  rotate: false
+  xy: 572, 21
+  size: 135, 65
+  orig: 137, 67
+  offset: 1, 1
+  index: -1

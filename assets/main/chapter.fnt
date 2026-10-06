@@ -1,0 +1,15 @@
+info face="face" size=38
+common lineHeight=38 scaleW=0 scaleH=0 pages=1
+page id=0 file="chapter.png"
+chars count=11
+char id=48 x=34 y=2 width=30 height=38 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=49 x=66 y=2 width=30 height=38 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=50 x=98 y=2 width=30 height=38 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=51 x=130 y=2 width=30 height=38 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=52 x=162 y=2 width=30 height=38 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=53 x=194 y=2 width=30 height=38 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=54 x=2 y=42 width=30 height=38 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=55 x=34 y=42 width=30 height=38 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=56 x=66 y=42 width=30 height=38 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=57 x=98 y=42 width=30 height=38 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=58 x=2 y=2 width=30 height=38 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15

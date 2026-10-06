@@ -1,0 +1,139 @@
+
+default.png
+size: 299,932
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dragon2-02/Body
+  rotate: false
+  xy: 2, 466
+  size: 228, 172
+  orig: 233, 174
+  offset: 4, 2
+  index: -1
+Dragon2-02/Eye
+  rotate: true
+  xy: 220, 270
+  size: 93, 76
+  orig: 102, 86
+  offset: 5, 5
+  index: -1
+Dragon2-02/Foot_L_E
+  rotate: false
+  xy: 118, 54
+  size: 95, 44
+  orig: 103, 134
+  offset: 4, 5
+  index: -1
+Dragon2-02/Foot_L_S
+  rotate: true
+  xy: 2, 12
+  size: 84, 108
+  orig: 92, 116
+  offset: 4, 4
+  index: -1
+Dragon2-02/Foot_L_X
+  rotate: true
+  xy: 220, 365
+  size: 94, 77
+  orig: 102, 85
+  offset: 4, 4
+  index: -1
+Dragon2-02/Foot_L_Z
+  rotate: false
+  xy: 215, 32
+  size: 59, 37
+  orig: 67, 50
+  offset: 4, 5
+  index: -1
+Dragon2-02/Foot_R_E
+  rotate: false
+  xy: 118, 100
+  size: 98, 55
+  orig: 106, 63
+  offset: 4, 4
+  index: -1
+Dragon2-02/Foot_R_S
+  rotate: true
+  xy: 2, 181
+  size: 82, 123
+  orig: 90, 131
+  offset: 4, 4
+  index: -1
+Dragon2-02/Foot_R_X
+  rotate: true
+  xy: 2, 98
+  size: 81, 114
+  orig: 89, 133
+  offset: 4, 5
+  index: -1
+Dragon2-02/Foot_R_Z
+  rotate: false
+  xy: 232, 569
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1
+Dragon2-02/Hand_L_E
+  rotate: false
+  xy: 218, 71
+  size: 74, 74
+  orig: 82, 82
+  offset: 4, 4
+  index: -1
+Dragon2-02/Hand_L_S
+  rotate: false
+  xy: 218, 147
+  size: 79, 121
+  orig: 79, 121
+  offset: 0, 0
+  index: -1
+Dragon2-02/Hand_L_X
+  rotate: true
+  xy: 165, 2
+  size: 50, 39
+  orig: 58, 47
+  offset: 4, 4
+  index: -1
+Dragon2-02/Hand_R_E
+  rotate: false
+  xy: 232, 461
+  size: 61, 106
+  orig: 69, 114
+  offset: 4, 4
+  index: -1
+Dragon2-02/Hand_R_S
+  rotate: false
+  xy: 132, 157
+  size: 84, 127
+  orig: 92, 135
+  offset: 4, 4
+  index: -1
+Dragon2-02/Hand_R_X
+  rotate: false
+  xy: 112, 7
+  size: 51, 45
+  orig: 60, 54
+  offset: 5, 5
+  index: -1
+Dragon2-02/Head
+  rotate: false
+  xy: 2, 640
+  size: 295, 290
+  orig: 303, 298
+  offset: 4, 4
+  index: -1
+Dragon2-02/Tail
+  rotate: true
+  xy: 2, 286
+  size: 178, 216
+  orig: 181, 217
+  offset: 1, 1
+  index: -1
+Dragon2-02/YZ
+  rotate: false
+  xy: 2, 265
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1

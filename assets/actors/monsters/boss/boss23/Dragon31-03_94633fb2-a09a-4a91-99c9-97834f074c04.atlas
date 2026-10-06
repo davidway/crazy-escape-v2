@@ -1,0 +1,181 @@
+
+Dragon31-03.png
+size: 1891,435
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YZ
+  rotate: false
+  xy: 674, 110
+  size: 675, 99
+  orig: 677, 101
+  offset: 1, 1
+  index: -1
+biyan
+  rotate: false
+  xy: 67, 23
+  size: 60, 26
+  orig: 62, 29
+  offset: 1, 1
+  index: -1
+datui1
+  rotate: false
+  xy: 1211, 226
+  size: 138, 207
+  orig: 140, 209
+  offset: 1, 1
+  index: -1
+datui2
+  rotate: true
+  xy: 1351, 241
+  size: 192, 186
+  orig: 194, 188
+  offset: 1, 1
+  index: -1
+huojian1
+  rotate: true
+  xy: 1071, 225
+  size: 208, 138
+  orig: 210, 140
+  offset: 1, 1
+  index: -1
+huojian2
+  rotate: false
+  xy: 1762, 121
+  size: 127, 159
+  orig: 129, 161
+  offset: 1, 1
+  index: -1
+ph1
+  rotate: true
+  xy: 1831, 350
+  size: 83, 55
+  orig: 200, 150
+  offset: 24, 42
+  index: -1
+ph2
+  rotate: false
+  xy: 1078, 2
+  size: 139, 106
+  orig: 200, 150
+  offset: 12, 19
+  index: -1
+ph3
+  rotate: false
+  xy: 1348, 21
+  size: 80, 87
+  orig: 200, 150
+  offset: 10, 28
+  index: -1
+ph4
+  rotate: false
+  xy: 1583, 149
+  size: 177, 122
+  orig: 200, 150
+  offset: 4, 5
+  index: -1
+ph5
+  rotate: false
+  xy: 359, 20
+  size: 162, 69
+  orig: 200, 150
+  offset: 21, 40
+  index: -1
+ph6
+  rotate: true
+  xy: 638, 3
+  size: 86, 82
+  orig: 200, 150
+  offset: 14, 28
+  index: -1
+ph7
+  rotate: false
+  xy: 1634, 8
+  size: 154, 111
+  orig: 200, 150
+  offset: 7, 16
+  index: -1
+ph8
+  rotate: false
+  xy: 905, 9
+  size: 171, 99
+  orig: 200, 150
+  offset: 9, 23
+  index: -1
+shangtou
+  rotate: true
+  xy: 2, 51
+  size: 382, 355
+  orig: 384, 357
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: true
+  xy: 359, 91
+  size: 342, 313
+  orig: 342, 313
+  offset: 0, 0
+  index: -1
+shouwan1
+  rotate: true
+  xy: 1219, 12
+  size: 96, 127
+  orig: 98, 129
+  offset: 1, 1
+  index: -1
+shouwan2
+  rotate: true
+  xy: 523, 6
+  size: 83, 113
+  orig: 85, 115
+  offset: 1, 1
+  index: -1
+weiba
+  rotate: false
+  xy: 674, 211
+  size: 395, 222
+  orig: 395, 222
+  offset: 0, 0
+  index: -1
+xiaotui1
+  rotate: false
+  xy: 1539, 273
+  size: 151, 160
+  orig: 154, 162
+  offset: 1, 1
+  index: -1
+xiaotui2
+  rotate: true
+  xy: 1692, 282
+  size: 151, 137
+  orig: 153, 139
+  offset: 1, 1
+  index: -1
+xiatou
+  rotate: false
+  xy: 1430, 3
+  size: 202, 123
+  orig: 204, 125
+  offset: 1, 1
+  index: -1
+zhengyan
+  rotate: false
+  xy: 2, 4
+  size: 63, 45
+  orig: 65, 47
+  offset: 1, 1
+  index: -1
+zhuazi1
+  rotate: false
+  xy: 1351, 128
+  size: 230, 111
+  orig: 232, 113
+  offset: 1, 1
+  index: -1
+zhuazi2
+  rotate: false
+  xy: 722, 2
+  size: 181, 106
+  orig: 183, 108
+  offset: 1, 1
+  index: -1

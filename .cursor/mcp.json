@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "cocos-mcp-2x": {
+      "command": "/Users/weekendzhu/Downloads/AI/cocos-games/疯狂大逃杀/packages/cocos-mcp-2x/server/.venv/bin/python",
+      "args": [
+        "/Users/weekendzhu/Downloads/AI/cocos-games/疯狂大逃杀/packages/cocos-mcp-2x/server/src/main.py",
+        "--transport",
+        "stdio",
+        "--bridge-host",
+        "127.0.0.1",
+        "--bridge-port",
+        "6020"
+      ],
+      "env": {
+        "COCOS_MCP_BRIDGE_HOST": "127.0.0.1",
+        "COCOS_MCP_BRIDGE_PORT": "6020"
+      }
+    }
+  }
+}

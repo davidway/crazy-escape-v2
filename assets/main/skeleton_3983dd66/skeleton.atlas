@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 682,688
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuzhou
+  rotate: true
+  xy: 2, 2
+  size: 308, 310
+  orig: 310, 310
+  offset: 1, 0
+  index: -1
+fuzhou_00000
+  rotate: true
+  xy: 2, 312
+  size: 374, 368
+  orig: 376, 368
+  offset: 1, 0
+  index: -1
+fuzhoulight
+  rotate: true
+  xy: 314, 2
+  size: 308, 310
+  orig: 310, 310
+  offset: 1, 0
+  index: -1
+fuzhoulight2
+  rotate: false
+  xy: 372, 376
+  size: 308, 310
+  orig: 310, 310
+  offset: 1, 0
+  index: -1

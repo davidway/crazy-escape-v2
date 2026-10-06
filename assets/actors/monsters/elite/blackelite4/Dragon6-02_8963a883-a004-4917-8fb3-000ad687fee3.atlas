@@ -1,0 +1,153 @@
+
+Dragon6-02.png
+size: 794,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MoLong6-02/01Fire/eye11
+  rotate: false
+  xy: 702, 118
+  size: 71, 57
+  orig: 75, 59
+  offset: 2, 1
+  index: -1
+MoLong6-02/01Fire/f1
+  rotate: true
+  xy: 2, 35
+  size: 192, 388
+  orig: 300, 450
+  offset: 51, 11
+  index: -1
+MoLong6-02/01Fire/f2
+  rotate: true
+  xy: 399, 177
+  size: 190, 393
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+MoLong6-02/01Fire/f3
+  rotate: true
+  xy: 2, 229
+  size: 208, 395
+  orig: 300, 450
+  offset: 27, 12
+  index: -1
+MoLong6-02/01Fire/f4
+  rotate: true
+  xy: 2, 634
+  size: 199, 422
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+MoLong6-02/01Fire/f5
+  rotate: true
+  xy: 2, 835
+  size: 195, 426
+  orig: 300, 450
+  offset: 51, 12
+  index: -1
+MoLong6-02/01Fire/f6
+  rotate: true
+  xy: 2, 439
+  size: 193, 419
+  orig: 300, 450
+  offset: 50, 11
+  index: -1
+MoLong6-02/images/Body
+  rotate: true
+  xy: 430, 729
+  size: 301, 350
+  orig: 301, 350
+  offset: 0, 0
+  index: -1
+MoLong6-02/images/Eye
+  rotate: true
+  xy: 460, 7
+  size: 48, 37
+  orig: 51, 39
+  offset: 1, 1
+  index: -1
+MoLong6-02/images/Foot_L_S
+  rotate: true
+  xy: 392, 3
+  size: 52, 66
+  orig: 54, 68
+  offset: 1, 1
+  index: -1
+MoLong6-02/images/Foot_L_X
+  rotate: true
+  xy: 639, 104
+  size: 71, 61
+  orig: 73, 64
+  offset: 1, 2
+  index: -1
+MoLong6-02/images/Foot_R_S
+  rotate: false
+  xy: 392, 57
+  size: 97, 118
+  orig: 99, 120
+  offset: 1, 1
+  index: -1
+MoLong6-02/images/Foot_R_X
+  rotate: false
+  xy: 566, 88
+  size: 71, 87
+  orig: 73, 89
+  offset: 1, 1
+  index: -1
+MoLong6-02/images/Hand_L_S
+  rotate: true
+  xy: 499, 2
+  size: 57, 89
+  orig: 59, 91
+  offset: 1, 1
+  index: -1
+MoLong6-02/images/Hand_L_X
+  rotate: false
+  xy: 590, 3
+  size: 77, 83
+  orig: 79, 85
+  offset: 1, 1
+  index: -1
+MoLong6-02/images/Hand_R_S
+  rotate: true
+  xy: 655, 390
+  size: 106, 132
+  orig: 108, 134
+  offset: 1, 1
+  index: -1
+MoLong6-02/images/Hand_R_X
+  rotate: false
+  xy: 491, 61
+  size: 73, 114
+  orig: 75, 116
+  offset: 1, 1
+  index: -1
+MoLong6-02/images/Head
+  rotate: false
+  xy: 423, 371
+  size: 230, 177
+  orig: 232, 179
+  offset: 1, 1
+  index: -1
+MoLong6-02/images/Neck
+  rotate: false
+  xy: 671, 498
+  size: 121, 229
+  orig: 121, 229
+  offset: 0, 0
+  index: -1
+MoLong6-02/images/Tail
+  rotate: false
+  xy: 426, 550
+  size: 243, 177
+  orig: 243, 177
+  offset: 0, 0
+  index: -1
+YZ
+  rotate: false
+  xy: 655, 369
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1

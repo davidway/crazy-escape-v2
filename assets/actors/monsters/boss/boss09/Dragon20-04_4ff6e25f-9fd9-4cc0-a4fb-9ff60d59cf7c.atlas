@@ -1,0 +1,104 @@
+
+Dragon20-04.png
+size: 865,865
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 371
+  size: 461, 492
+  orig: 462, 492
+  offset: 0, 0
+  index: -1
+Eye-1
+  rotate: false
+  xy: 47, 44
+  size: 32, 46
+  orig: 41, 46
+  offset: 4, 0
+  index: -1
+Eye-2
+  rotate: false
+  xy: 2, 29
+  size: 43, 61
+  orig: 51, 61
+  offset: 4, 0
+  index: -1
+Foot_L_S
+  rotate: false
+  xy: 184, 15
+  size: 98, 121
+  orig: 106, 121
+  offset: 4, 0
+  index: -1
+Foot_L_X
+  rotate: false
+  xy: 478, 2
+  size: 158, 159
+  orig: 158, 166
+  offset: 0, 7
+  index: -1
+Foot_R_S
+  rotate: true
+  xy: 284, 31
+  size: 105, 192
+  orig: 113, 192
+  offset: 4, 0
+  index: -1
+Foot_R_X
+  rotate: false
+  xy: 2, 92
+  size: 180, 277
+  orig: 182, 277
+  offset: 0, 0
+  index: -1
+Hand_L_S
+  rotate: true
+  xy: 638, 110
+  size: 135, 182
+  orig: 143, 182
+  offset: 4, 0
+  index: -1
+Hand_L_X
+  rotate: true
+  xy: 411, 163
+  size: 206, 199
+  orig: 207, 200
+  offset: 1, 1
+  index: -1
+Hand_R_S
+  rotate: true
+  xy: 638, 247
+  size: 152, 204
+  orig: 160, 204
+  offset: 4, 0
+  index: -1
+Hand_R_X
+  rotate: true
+  xy: 184, 138
+  size: 231, 225
+  orig: 233, 225
+  offset: 1, 0
+  index: -1
+Head
+  rotate: true
+  xy: 465, 401
+  size: 462, 375
+  orig: 464, 376
+  offset: 2, 0
+  index: -1
+VFX
+  rotate: true
+  xy: 638, 7
+  size: 101, 152
+  orig: 105, 152
+  offset: 3, 0
+  index: -1
+YZ
+  rotate: true
+  xy: 842, 735
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1

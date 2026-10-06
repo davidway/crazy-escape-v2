@@ -1,0 +1,125 @@
+
+Dragon5-02.png
+size: 442,1033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YZ
+  rotate: true
+  xy: 416, 903
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1
+bady
+  rotate: true
+  xy: 2, 598
+  size: 433, 412
+  orig: 433, 412
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 197, 2
+  size: 38, 58
+  orig: 41, 60
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 2, 147
+  size: 193, 220
+  orig: 195, 222
+  offset: 1, 1
+  index: -1
+weiba
+  rotate: true
+  xy: 2, 342
+  size: 254, 249
+  orig: 254, 249
+  offset: 0, 0
+  index: -1
+youjiao1
+  rotate: false
+  xy: 224, 146
+  size: 143, 194
+  orig: 145, 212
+  offset: 1, 1
+  index: -1
+youjiao2
+  rotate: true
+  xy: 224, 42
+  size: 102, 146
+  orig: 104, 161
+  offset: 1, 1
+  index: -1
+youjiao3
+  rotate: false
+  xy: 372, 55
+  size: 61, 72
+  orig: 63, 74
+  offset: 1, 1
+  index: -1
+youshou1
+  rotate: true
+  xy: 2, 24
+  size: 121, 122
+  orig: 123, 124
+  offset: 1, 1
+  index: -1
+youshou2
+  rotate: false
+  xy: 253, 427
+  size: 87, 169
+  orig: 89, 171
+  offset: 1, 1
+  index: -1
+youshou3
+  rotate: true
+  xy: 372, 129
+  size: 72, 67
+  orig: 74, 69
+  offset: 1, 1
+  index: -1
+zuojiao1
+  rotate: false
+  xy: 342, 429
+  size: 89, 167
+  orig: 91, 169
+  offset: 1, 1
+  index: -1
+zuojiao2
+  rotate: false
+  xy: 126, 7
+  size: 69, 138
+  orig: 81, 162
+  offset: 1, 1
+  index: -1
+zuojiao3
+  rotate: true
+  xy: 197, 83
+  size: 62, 25
+  orig: 64, 27
+  offset: 1, 1
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 369, 203
+  size: 71, 137
+  orig: 73, 139
+  offset: 1, 1
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 253, 342
+  size: 83, 159
+  orig: 85, 161
+  offset: 1, 1
+  index: -1
+zuoshou3
+  rotate: false
+  xy: 257, 7
+  size: 79, 33
+  orig: 81, 43
+  offset: 1, 1
+  index: -1

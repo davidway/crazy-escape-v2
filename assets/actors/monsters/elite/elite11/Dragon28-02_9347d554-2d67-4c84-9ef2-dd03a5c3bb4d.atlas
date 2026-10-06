@@ -1,0 +1,139 @@
+
+Dragon28-02.png
+size: 886,886
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 493, 358
+  size: 305, 224
+  orig: 307, 226
+  offset: 0, 1
+  index: -1
+Eye_Cl
+  rotate: false
+  xy: 672, 133
+  size: 105, 103
+  orig: 113, 103
+  offset: 4, 0
+  index: -1
+Eye_OP
+  rotate: false
+  xy: 523, 47
+  size: 105, 103
+  orig: 113, 103
+  offset: 4, 0
+  index: -1
+Fly_L
+  rotate: false
+  xy: 493, 584
+  size: 329, 300
+  orig: 334, 306
+  offset: 3, 2
+  index: -1
+Fly_R
+  rotate: true
+  xy: 2, 120
+  size: 395, 408
+  orig: 398, 410
+  offset: 2, 1
+  index: -1
+Foot_L_S
+  rotate: false
+  xy: 401, 11
+  size: 120, 107
+  orig: 128, 107
+  offset: 4, 0
+  index: -1
+Foot_L_X
+  rotate: true
+  xy: 779, 126
+  size: 110, 98
+  orig: 120, 98
+  offset: 4, 0
+  index: -1
+Foot_R_S
+  rotate: true
+  xy: 672, 238
+  size: 118, 122
+  orig: 126, 122
+  offset: 4, 0
+  index: -1
+Foot_R_X
+  rotate: false
+  xy: 275, 11
+  size: 124, 107
+  orig: 137, 107
+  offset: 6, 0
+  index: -1
+Hand_L_E
+  rotate: true
+  xy: 630, 26
+  size: 105, 91
+  orig: 113, 91
+  offset: 4, 0
+  index: -1
+Hand_L_S
+  rotate: false
+  xy: 824, 741
+  size: 40, 76
+  orig: 48, 76
+  offset: 4, 0
+  index: -1
+Hand_L_X
+  rotate: false
+  xy: 800, 383
+  size: 66, 88
+  orig: 76, 88
+  offset: 4, 0
+  index: -1
+Hand_R_E
+  rotate: true
+  xy: 800, 473
+  size: 109, 84
+  orig: 117, 84
+  offset: 4, 0
+  index: -1
+Hand_R_S
+  rotate: false
+  xy: 800, 294
+  size: 63, 87
+  orig: 72, 87
+  offset: 4, 0
+  index: -1
+Hand_R_X
+  rotate: true
+  xy: 824, 819
+  size: 65, 60
+  orig: 73, 60
+  offset: 4, 0
+  index: -1
+Head_1
+  rotate: false
+  xy: 2, 517
+  size: 489, 367
+  orig: 497, 367
+  offset: 4, 0
+  index: -1
+Head_2
+  rotate: false
+  xy: 412, 152
+  size: 258, 204
+  orig: 266, 204
+  offset: 4, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 31
+  size: 271, 87
+  orig: 276, 90
+  offset: 3, 2
+  index: -1
+YZ
+  rotate: true
+  xy: 824, 611
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1

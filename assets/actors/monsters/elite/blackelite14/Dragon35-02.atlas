@@ -1,0 +1,181 @@
+
+Dragon35-02.png
+size: 904,1033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01Fire/eye11
+  rotate: true
+  xy: 760, 28
+  size: 71, 57
+  orig: 75, 59
+  offset: 2, 1
+  index: -1
+01Fire/f1
+  rotate: false
+  xy: 407, 49
+  size: 192, 388
+  orig: 300, 450
+  offset: 51, 11
+  index: -1
+01Fire/f2
+  rotate: false
+  xy: 608, 441
+  size: 190, 393
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+01Fire/f3
+  rotate: false
+  xy: 398, 439
+  size: 208, 395
+  orig: 300, 450
+  offset: 27, 12
+  index: -1
+01Fire/f4
+  rotate: false
+  xy: 2, 283
+  size: 199, 422
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+01Fire/f5
+  rotate: true
+  xy: 390, 836
+  size: 195, 426
+  orig: 300, 450
+  offset: 51, 12
+  index: -1
+01Fire/f6
+  rotate: false
+  xy: 203, 286
+  size: 193, 419
+  orig: 300, 450
+  offset: 50, 11
+  index: -1
+ML35/Body
+  rotate: true
+  xy: 601, 199
+  size: 238, 210
+  orig: 238, 225
+  offset: 0, 0
+  index: -1
+ML35/Eye
+  rotate: false
+  xy: 815, 140
+  size: 52, 64
+  orig: 54, 66
+  offset: 1, 1
+  index: -1
+ML35/Foot_L_E
+  rotate: true
+  xy: 813, 206
+  size: 110, 57
+  orig: 112, 59
+  offset: 1, 1
+  index: -1
+ML35/Foot_L_S
+  rotate: false
+  xy: 800, 558
+  size: 102, 124
+  orig: 104, 126
+  offset: 1, 1
+  index: -1
+ML35/Foot_L_X
+  rotate: false
+  xy: 690, 16
+  size: 68, 80
+  orig: 70, 82
+  offset: 1, 1
+  index: -1
+ML35/Foot_R_E
+  rotate: true
+  xy: 800, 443
+  size: 113, 63
+  orig: 115, 65
+  offset: 1, 1
+  index: -1
+ML35/Foot_R_S
+  rotate: false
+  xy: 800, 684
+  size: 99, 150
+  orig: 101, 152
+  offset: 1, 1
+  index: -1
+ML35/Foot_R_X
+  rotate: false
+  xy: 813, 318
+  size: 80, 123
+  orig: 83, 126
+  offset: 1, 1
+  index: -1
+ML35/Hand_L_E
+  rotate: true
+  xy: 601, 2
+  size: 94, 87
+  orig: 96, 89
+  offset: 1, 1
+  index: -1
+ML35/Hand_L_S
+  rotate: false
+  xy: 756, 101
+  size: 57, 96
+  orig: 59, 99
+  offset: 1, 1
+  index: -1
+ML35/Hand_L_X
+  rotate: true
+  xy: 818, 836
+  size: 63, 49
+  orig: 65, 51
+  offset: 1, 1
+  index: -1
+ML35/Hand_R_E
+  rotate: false
+  xy: 818, 901
+  size: 75, 130
+  orig: 77, 132
+  offset: 1, 1
+  index: -1
+ML35/Hand_R_S
+  rotate: true
+  xy: 601, 98
+  size: 99, 153
+  orig: 102, 155
+  offset: 1, 1
+  index: -1
+ML35/Hand_R_X
+  rotate: true
+  xy: 819, 77
+  size: 61, 60
+  orig: 63, 62
+  offset: 1, 1
+  index: -1
+ML35/Head_1
+  rotate: false
+  xy: 2, 707
+  size: 386, 324
+  orig: 388, 326
+  offset: 1, 1
+  index: -1
+ML35/Head_2
+  rotate: true
+  xy: 252, 34
+  size: 250, 153
+  orig: 252, 347
+  offset: 1, 1
+  index: -1
+ML35/Tail
+  rotate: false
+  xy: 2, 30
+  size: 248, 251
+  orig: 248, 251
+  offset: 0, 0
+  index: -1
+YZ
+  rotate: false
+  xy: 2, 9
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1

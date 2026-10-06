@@ -1,0 +1,146 @@
+
+Dragon14-03.png
+size: 1892,458
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01Fire/eye11
+  rotate: false
+  xy: 1751, 51
+  size: 71, 57
+  orig: 75, 59
+  offset: 2, 1
+  index: -1
+01Fire/f1
+  rotate: true
+  xy: 1423, 264
+  size: 192, 388
+  orig: 300, 450
+  offset: 51, 11
+  index: -1
+01Fire/f2
+  rotate: true
+  xy: 1028, 266
+  size: 190, 393
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+01Fire/f3
+  rotate: true
+  xy: 631, 248
+  size: 208, 395
+  orig: 300, 450
+  offset: 27, 12
+  index: -1
+01Fire/f4
+  rotate: false
+  xy: 2, 34
+  size: 199, 422
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+01Fire/f5
+  rotate: true
+  xy: 203, 261
+  size: 195, 426
+  orig: 300, 450
+  offset: 51, 12
+  index: -1
+01Fire/f6
+  rotate: true
+  xy: 203, 66
+  size: 193, 419
+  orig: 300, 450
+  offset: 50, 11
+  index: -1
+ML/biyan
+  rotate: false
+  xy: 1616, 40
+  size: 133, 71
+  orig: 135, 74
+  offset: 1, 1
+  index: -1
+ML/p1
+  rotate: true
+  xy: 1416, 26
+  size: 54, 198
+  orig: 56, 200
+  offset: 1, 1
+  index: -1
+ML/p2
+  rotate: false
+  xy: 1601, 113
+  size: 162, 149
+  orig: 164, 151
+  offset: 1, 1
+  index: -1
+ML/p3
+  rotate: true
+  xy: 1813, 262
+  size: 194, 77
+  orig: 196, 79
+  offset: 1, 1
+  index: -1
+ML/shenti
+  rotate: false
+  xy: 1129, 12
+  size: 147, 252
+  orig: 147, 252
+  offset: 0, 0
+  index: -1
+ML/tou
+  rotate: false
+  xy: 624, 2
+  size: 320, 244
+  orig: 322, 246
+  offset: 1, 1
+  index: -1
+ML/youshou
+  rotate: true
+  xy: 1278, 69
+  size: 195, 136
+  orig: 197, 138
+  offset: 1, 1
+  index: -1
+ML/youshouwan
+  rotate: false
+  xy: 1765, 183
+  size: 113, 77
+  orig: 113, 77
+  offset: 0, 0
+  index: -1
+ML/zhen
+  rotate: false
+  xy: 946, 12
+  size: 181, 234
+  orig: 183, 237
+  offset: 1, 1
+  index: -1
+ML/zhengyan
+  rotate: false
+  xy: 1278, 6
+  size: 89, 61
+  orig: 93, 65
+  offset: 2, 2
+  index: -1
+ML/zuoshou
+  rotate: false
+  xy: 1416, 82
+  size: 183, 180
+  orig: 185, 182
+  offset: 1, 1
+  index: -1
+ML/zuoshouwan
+  rotate: true
+  xy: 1765, 110
+  size: 71, 104
+  orig: 71, 104
+  offset: 0, 0
+  index: -1
+YZ
+  rotate: false
+  xy: 203, 3
+  size: 416, 61
+  orig: 418, 63
+  offset: 1, 1
+  index: -1

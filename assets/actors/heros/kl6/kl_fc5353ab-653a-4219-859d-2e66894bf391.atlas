@@ -1,0 +1,97 @@
+
+kl.png
+size: 436,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0Kulou02/eye
+  rotate: true
+  xy: 387, 173
+  size: 108, 30
+  orig: 116, 40
+  offset: 5, 6
+  index: -1
+0Kulou02/head
+  rotate: false
+  xy: 2, 286
+  size: 257, 238
+  orig: 263, 244
+  offset: 3, 3
+  index: -1
+0Kulou02/shenti
+  rotate: false
+  xy: 121, 2
+  size: 179, 180
+  orig: 187, 180
+  offset: 4, 0
+  index: -1
+0Kulou02/shou-l
+  rotate: true
+  xy: 174, 195
+  size: 89, 85
+  orig: 96, 91
+  offset: 3, 3
+  index: -1
+0Kulou02/shou-r
+  rotate: true
+  xy: 302, 147
+  size: 90, 78
+  orig: 97, 85
+  offset: 3, 4
+  index: -1
+0Kulou02/shouwan-l
+  rotate: true
+  xy: 302, 75
+  size: 70, 114
+  orig: 76, 120
+  offset: 3, 3
+  index: -1
+0Kulou02/shouwan-r
+  rotate: true
+  xy: 261, 239
+  size: 87, 124
+  orig: 87, 124
+  offset: 0, 0
+  index: -1
+images/gj_01
+  rotate: true
+  xy: 2, 51
+  size: 120, 117
+  orig: 126, 124
+  offset: 3, 3
+  index: -1
+images/gj_02
+  rotate: true
+  xy: 2, 181
+  size: 103, 100
+  orig: 109, 106
+  offset: 3, 3
+  index: -1
+images/l_foot
+  rotate: true
+  xy: 302, 8
+  size: 65, 93
+  orig: 68, 97
+  offset: 1, 2
+  index: -1
+images/pifeng
+  rotate: false
+  xy: 261, 328
+  size: 136, 196
+  orig: 140, 200
+  offset: 2, 2
+  index: -1
+images/r_foot
+  rotate: false
+  xy: 104, 184
+  size: 68, 100
+  orig: 72, 104
+  offset: 2, 2
+  index: -1
+yingzi
+  rotate: true
+  xy: 399, 283
+  size: 241, 35
+  orig: 243, 37
+  offset: 1, 1
+  index: -1

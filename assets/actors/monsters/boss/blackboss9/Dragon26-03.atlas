@@ -1,0 +1,209 @@
+
+Dragon26-03.png
+size: 1769,778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01Fire/eye11
+  rotate: false
+  xy: 1694, 395
+  size: 71, 57
+  orig: 75, 59
+  offset: 2, 1
+  index: -1
+01Fire/f1
+  rotate: false
+  xy: 997, 388
+  size: 192, 388
+  orig: 300, 450
+  offset: 51, 11
+  index: -1
+01Fire/f2
+  rotate: false
+  xy: 805, 383
+  size: 190, 393
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+01Fire/f3
+  rotate: false
+  xy: 595, 381
+  size: 208, 395
+  orig: 300, 450
+  offset: 27, 12
+  index: -1
+01Fire/f4
+  rotate: false
+  xy: 199, 354
+  size: 199, 422
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+01Fire/f5
+  rotate: false
+  xy: 2, 350
+  size: 195, 426
+  orig: 300, 450
+  offset: 51, 12
+  index: -1
+01Fire/f6
+  rotate: false
+  xy: 400, 357
+  size: 193, 419
+  orig: 300, 450
+  offset: 50, 11
+  index: -1
+Body
+  rotate: true
+  xy: 1191, 490
+  size: 286, 266
+  orig: 286, 266
+  offset: 0, 0
+  index: -1
+EyE_1
+  rotate: true
+  xy: 1672, 4
+  size: 78, 51
+  orig: 80, 53
+  offset: 1, 1
+  index: -1
+EyE_2
+  rotate: false
+  xy: 1625, 395
+  size: 65, 38
+  orig: 67, 40
+  offset: 1, 1
+  index: -1
+Fly-L
+  rotate: false
+  xy: 2, 4
+  size: 415, 344
+  orig: 415, 344
+  offset: 0, 0
+  index: -1
+Fly-R
+  rotate: false
+  xy: 937, 2
+  size: 310, 379
+  orig: 310, 379
+  offset: 0, 0
+  index: -1
+Foot_L_S
+  rotate: true
+  xy: 1249, 266
+  size: 115, 172
+  orig: 117, 174
+  offset: 1, 1
+  index: -1
+Foot_L_X
+  rotate: true
+  xy: 1625, 264
+  size: 129, 137
+  orig: 129, 137
+  offset: 0, 0
+  index: -1
+Foot_R_S
+  rotate: true
+  xy: 1420, 18
+  size: 166, 157
+  orig: 169, 159
+  offset: 1, 1
+  index: -1
+Foot_R_X
+  rotate: true
+  xy: 1249, 16
+  size: 128, 118
+  orig: 128, 118
+  offset: 0, 0
+  index: -1
+Hand_L_S
+  rotate: false
+  xy: 1672, 84
+  size: 80, 107
+  orig: 82, 109
+  offset: 1, 1
+  index: -1
+Hand_L_X
+  rotate: false
+  xy: 1423, 186
+  size: 194, 95
+  orig: 194, 95
+  offset: 0, 0
+  index: -1
+Hand_R_S
+  rotate: true
+  xy: 1672, 193
+  size: 69, 95
+  orig: 71, 97
+  offset: 1, 1
+  index: -1
+Hand_R_X
+  rotate: true
+  xy: 1579, 32
+  size: 152, 91
+  orig: 152, 91
+  offset: 0, 0
+  index: -1
+Head-1
+  rotate: true
+  xy: 635, 37
+  size: 321, 300
+  orig: 323, 302
+  offset: 1, 1
+  index: -1
+Head-2
+  rotate: false
+  xy: 1249, 146
+  size: 169, 118
+  orig: 171, 120
+  offset: 1, 1
+  index: -1
+Tail
+  rotate: true
+  xy: 419, 4
+  size: 351, 214
+  orig: 351, 214
+  offset: 0, 0
+  index: -1
+Vfx-1-1
+  rotate: false
+  xy: 1459, 435
+  size: 233, 189
+  orig: 233, 189
+  offset: 0, 0
+  index: -1
+Vfx-1-2
+  rotate: false
+  xy: 1424, 283
+  size: 199, 150
+  orig: 199, 150
+  offset: 0, 0
+  index: -1
+Vfx-2
+  rotate: false
+  xy: 1459, 626
+  size: 269, 150
+  orig: 270, 150
+  offset: 0, 0
+  index: -1
+Vfx-3
+  rotate: false
+  xy: 1191, 383
+  size: 231, 105
+  orig: 231, 106
+  offset: 0, 1
+  index: -1
+Vfx-4
+  rotate: true
+  xy: 1694, 454
+  size: 170, 72
+  orig: 171, 74
+  offset: 0, 1
+  index: -1
+YZ
+  rotate: false
+  xy: 595, 360
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1

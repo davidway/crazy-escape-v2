@@ -1,0 +1,62 @@
+
+Dragon4-02.png
+size: 651,322
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 2
+  size: 318, 369
+  orig: 363, 373
+  offset: 42, 1
+  index: -1
+Eye
+  rotate: false
+  xy: 373, 67
+  size: 184, 110
+  orig: 192, 118
+  offset: 4, 4
+  index: -1
+Fly_L
+  rotate: true
+  xy: 559, 64
+  size: 100, 88
+  orig: 104, 90
+  offset: 1, 2
+  index: -1
+Fly_R
+  rotate: true
+  xy: 559, 166
+  size: 154, 90
+  orig: 154, 90
+  offset: 0, 0
+  index: -1
+Foot_1
+  rotate: true
+  xy: 373, 16
+  size: 49, 92
+  orig: 49, 92
+  offset: 0, 0
+  index: -1
+Foot_2
+  rotate: true
+  xy: 515, 259
+  size: 61, 39
+  orig: 61, 39
+  offset: 0, 0
+  index: -1
+Hand-R
+  rotate: true
+  xy: 373, 179
+  size: 141, 140
+  orig: 141, 143
+  offset: 0, 2
+  index: -1
+YZ
+  rotate: false
+  xy: 467, 43
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1

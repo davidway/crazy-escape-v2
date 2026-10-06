@@ -1,0 +1,31 @@
+# Cocos
+library/
+temp/
+local/
+build/
+build-*
+.settings/
+*.swp
+.DS_Store
+
+# Creator / IDE
+.creator/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MCP plugin is a nested clone; not needed to read game code
+packages/cocos-mcp-2x/
+.cursor/
+packages/**/.venv/
+**/__pycache__/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Secrets
+.env
+.env.*
+credentials.json
+**/secrets*

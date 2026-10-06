@@ -1,0 +1,125 @@
+
+Dragon26-02.png
+size: 828,828
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 451, 421
+  size: 234, 224
+  orig: 235, 224
+  offset: 1, 0
+  index: -1
+Eye_Cl
+  rotate: true
+  xy: 765, 439
+  size: 94, 48
+  orig: 102, 48
+  offset: 4, 0
+  index: -1
+Eye_Op
+  rotate: true
+  xy: 677, 428
+  size: 105, 86
+  orig: 113, 86
+  offset: 4, 0
+  index: -1
+Fly_L
+  rotate: false
+  xy: 2, 5
+  size: 218, 413
+  orig: 218, 413
+  offset: 0, 0
+  index: -1
+Fly_R
+  rotate: false
+  xy: 2, 420
+  size: 447, 406
+  orig: 449, 407
+  offset: 1, 1
+  index: -1
+Foot_L_S
+  rotate: false
+  xy: 451, 724
+  size: 108, 102
+  orig: 116, 102
+  offset: 4, 0
+  index: -1
+Foot_L_X
+  rotate: false
+  xy: 561, 6
+  size: 71, 76
+  orig: 80, 76
+  offset: 4, 0
+  index: -1
+Foot_R_S
+  rotate: true
+  xy: 677, 535
+  size: 120, 132
+  orig: 128, 132
+  offset: 4, 0
+  index: -1
+Foot_R_X
+  rotate: true
+  xy: 634, 9
+  size: 73, 103
+  orig: 83, 103
+  offset: 5, 0
+  index: -1
+Hand_L_S
+  rotate: false
+  xy: 508, 674
+  size: 48, 48
+  orig: 56, 48
+  offset: 4, 0
+  index: -1
+Hand_L_X
+  rotate: true
+  xy: 739, 96
+  size: 101, 81
+  orig: 109, 81
+  offset: 4, 0
+  index: -1
+Hand_R_S
+  rotate: false
+  xy: 451, 663
+  size: 55, 59
+  orig: 63, 59
+  offset: 4, 0
+  index: -1
+Hand_R_X
+  rotate: true
+  xy: 561, 84
+  size: 113, 82
+  orig: 121, 82
+  offset: 4, 0
+  index: -1
+Head_1
+  rotate: true
+  xy: 222, 23
+  size: 395, 337
+  orig: 407, 337
+  offset: 4, 0
+  index: -1
+Head_2
+  rotate: false
+  xy: 561, 657
+  size: 264, 169
+  orig: 272, 169
+  offset: 4, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 561, 199
+  size: 262, 220
+  orig: 264, 245
+  offset: 0, 2
+  index: -1
+YZ
+  rotate: false
+  xy: 222, 2
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1

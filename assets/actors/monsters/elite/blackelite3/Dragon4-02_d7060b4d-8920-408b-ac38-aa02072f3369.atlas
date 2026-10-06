@@ -1,0 +1,111 @@
+
+Dragon4-02.png
+size: 1765,398
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MoLong4-02/01Fire/eye11
+  rotate: false
+  xy: 1498, 37
+  size: 71, 57
+  orig: 75, 59
+  offset: 2, 1
+  index: -1
+MoLong4-02/01Fire/f1
+  rotate: false
+  xy: 1571, 8
+  size: 192, 388
+  orig: 300, 450
+  offset: 51, 11
+  index: -1
+MoLong4-02/01Fire/f2
+  rotate: true
+  xy: 746, 9
+  size: 190, 393
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+MoLong4-02/01Fire/f3
+  rotate: true
+  xy: 1174, 188
+  size: 208, 395
+  orig: 300, 450
+  offset: 27, 12
+  index: -1
+MoLong4-02/01Fire/f4
+  rotate: true
+  xy: 322, 197
+  size: 199, 422
+  orig: 300, 450
+  offset: 45, 12
+  index: -1
+MoLong4-02/01Fire/f5
+  rotate: true
+  xy: 746, 201
+  size: 195, 426
+  orig: 300, 450
+  offset: 51, 12
+  index: -1
+MoLong4-02/01Fire/f6
+  rotate: true
+  xy: 322, 2
+  size: 193, 419
+  orig: 300, 450
+  offset: 50, 11
+  index: -1
+MoLong4-02/images/Body
+  rotate: false
+  xy: 2, 29
+  size: 318, 367
+  orig: 357, 367
+  offset: 39, 0
+  index: -1
+MoLong4-02/images/Eye
+  rotate: true
+  xy: 1141, 2
+  size: 184, 110
+  orig: 186, 112
+  offset: 1, 1
+  index: -1
+MoLong4-02/images/Fly-R2
+  rotate: false
+  xy: 1396, 96
+  size: 154, 90
+  orig: 154, 90
+  offset: 0, 0
+  index: -1
+MoLong4-02/images/Fly_L2
+  rotate: false
+  xy: 1396, 6
+  size: 100, 88
+  orig: 104, 90
+  offset: 1, 2
+  index: -1
+MoLong4-02/images/Foot_R_1
+  rotate: true
+  xy: 1253, 3
+  size: 41, 86
+  orig: 41, 86
+  offset: 0, 0
+  index: -1
+MoLong4-02/images/Foot_R_2
+  rotate: false
+  xy: 1498, 2
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+MoLong4-02/images/Hand-R1
+  rotate: false
+  xy: 1253, 46
+  size: 141, 140
+  orig: 141, 143
+  offset: 0, 2
+  index: -1
+YZ
+  rotate: false
+  xy: 2, 8
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1

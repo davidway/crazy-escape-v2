@@ -1,0 +1,111 @@
+
+kl.png
+size: 311,878
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ZhuJue05/Kulou5/body
+  rotate: false
+  xy: 2, 12
+  size: 164, 144
+  orig: 172, 151
+  offset: 8, 0
+  index: -1
+ZhuJue05/Kulou5/eye
+  rotate: true
+  xy: 2, 158
+  size: 127, 177
+  orig: 130, 181
+  offset: 1, 1
+  index: -1
+ZhuJue05/Kulou5/head
+  rotate: false
+  xy: 2, 637
+  size: 257, 239
+  orig: 257, 239
+  offset: 0, 0
+  index: -1
+ZhuJue05/Kulou5/kuzi-l
+  rotate: false
+  xy: 200, 222
+  size: 94, 79
+  orig: 100, 85
+  offset: 3, 3
+  index: -1
+ZhuJue05/Kulou5/shou-l
+  rotate: true
+  xy: 221, 540
+  size: 93, 88
+  orig: 99, 95
+  offset: 3, 3
+  index: -1
+ZhuJue05/Kulou5/shou-r
+  rotate: false
+  xy: 221, 457
+  size: 88, 81
+  orig: 94, 87
+  offset: 3, 3
+  index: -1
+ZhuJue05/Kulou5/shouwan-l
+  rotate: true
+  xy: 181, 149
+  size: 71, 121
+  orig: 71, 121
+  offset: 0, 0
+  index: -1
+ZhuJue05/Kulou5/shouwan-r
+  rotate: true
+  xy: 168, 69
+  size: 78, 118
+  orig: 87, 124
+  offset: 0, 3
+  index: -1
+ZhuJue05/l_foot
+  rotate: true
+  xy: 168, 2
+  size: 65, 93
+  orig: 69, 97
+  offset: 2, 2
+  index: -1
+ZhuJue05/mantle_01
+  rotate: false
+  xy: 2, 287
+  size: 196, 83
+  orig: 202, 89
+  offset: 3, 3
+  index: -1
+ZhuJue05/mantle_02
+  rotate: false
+  xy: 2, 372
+  size: 204, 159
+  orig: 212, 167
+  offset: 4, 4
+  index: -1
+ZhuJue05/r_foot
+  rotate: true
+  xy: 208, 387
+  size: 68, 100
+  orig: 72, 104
+  offset: 2, 2
+  index: -1
+ZhuJue05/r_leg
+  rotate: false
+  xy: 208, 303
+  size: 97, 82
+  orig: 103, 88
+  offset: 3, 3
+  index: -1
+ZhuJue05/towel
+  rotate: false
+  xy: 2, 533
+  size: 217, 102
+  orig: 219, 104
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: true
+  xy: 261, 635
+  size: 241, 35
+  orig: 243, 37
+  offset: 1, 1
+  index: -1

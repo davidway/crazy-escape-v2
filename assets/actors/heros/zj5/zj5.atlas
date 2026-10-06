@@ -1,0 +1,104 @@
+
+zj5.png
+size: 1069,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ZhuJue05/body
+  rotate: false
+  xy: 457, 109
+  size: 156, 164
+  orig: 156, 164
+  offset: 0, 0
+  index: -1
+ZhuJue05/head
+  rotate: false
+  xy: 2, 6
+  size: 292, 267
+  orig: 294, 269
+  offset: 1, 1
+  index: -1
+ZhuJue05/l_foot
+  rotate: true
+  xy: 674, 5
+  size: 65, 93
+  orig: 69, 97
+  offset: 2, 2
+  index: -1
+ZhuJue05/l_hand_1
+  rotate: false
+  xy: 964, 38
+  size: 103, 143
+  orig: 105, 151
+  offset: 0, 0
+  index: -1
+ZhuJue05/l_leg
+  rotate: false
+  xy: 868, 5
+  size: 94, 79
+  orig: 100, 85
+  offset: 3, 3
+  index: -1
+ZhuJue05/mantle_01
+  rotate: false
+  xy: 700, 86
+  size: 196, 83
+  orig: 202, 89
+  offset: 3, 3
+  index: -1
+ZhuJue05/mantle_02
+  rotate: true
+  xy: 296, 69
+  size: 204, 159
+  orig: 212, 167
+  offset: 4, 4
+  index: -1
+ZhuJue05/r_foot
+  rotate: true
+  xy: 572, 2
+  size: 68, 100
+  orig: 72, 104
+  offset: 2, 2
+  index: -1
+ZhuJue05/r_leg
+  rotate: false
+  xy: 769, 2
+  size: 97, 82
+  orig: 103, 88
+  offset: 3, 3
+  index: -1
+ZhuJue05/towel
+  rotate: false
+  xy: 615, 171
+  size: 217, 102
+  orig: 219, 104
+  offset: 1, 1
+  index: -1
+ZhuJue05/wristlet
+  rotate: true
+  xy: 834, 183
+  size: 90, 157
+  orig: 94, 161
+  offset: 2, 2
+  index: -1
+biyan
+  rotate: false
+  xy: 296, 2
+  size: 137, 65
+  orig: 140, 68
+  offset: 2, 2
+  index: -1
+yingzi
+  rotate: false
+  xy: 457, 72
+  size: 241, 35
+  orig: 243, 37
+  offset: 1, 1
+  index: -1
+zhengyan
+  rotate: false
+  xy: 435, 2
+  size: 135, 65
+  orig: 137, 67
+  offset: 1, 1
+  index: -1

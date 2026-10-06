@@ -1,0 +1,181 @@
+
+Dragon35-03.png
+size: 835,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dragon35-03/Body
+  rotate: true
+  xy: 368, 680
+  size: 350, 355
+  orig: 350, 357
+  offset: 0, 2
+  index: -1
+Dragon35-03/Ding_L
+  rotate: false
+  xy: 507, 401
+  size: 37, 37
+  orig: 45, 46
+  offset: 4, 5
+  index: -1
+Dragon35-03/Ding_R
+  rotate: true
+  xy: 486, 440
+  size: 40, 41
+  orig: 48, 49
+  offset: 4, 4
+  index: -1
+Dragon35-03/Eye
+  rotate: false
+  xy: 486, 482
+  size: 48, 66
+  orig: 56, 74
+  offset: 4, 4
+  index: -1
+Dragon35-03/Foot_L_E
+  rotate: false
+  xy: 351, 323
+  size: 154, 80
+  orig: 162, 88
+  offset: 4, 4
+  index: -1
+Dragon35-03/Foot_L_S
+  rotate: true
+  xy: 163, 11
+  size: 143, 175
+  orig: 151, 183
+  offset: 4, 4
+  index: -1
+Dragon35-03/Foot_L_X
+  rotate: false
+  xy: 340, 41
+  size: 95, 113
+  orig: 103, 121
+  offset: 4, 4
+  index: -1
+Dragon35-03/Foot_R_E
+  rotate: true
+  xy: 717, 427
+  size: 159, 88
+  orig: 167, 96
+  offset: 4, 4
+  index: -1
+Dragon35-03/Foot_R_S
+  rotate: false
+  xy: 547, 117
+  size: 139, 211
+  orig: 147, 219
+  offset: 4, 4
+  index: -1
+Dragon35-03/Foot_R_X
+  rotate: false
+  xy: 725, 588
+  size: 107, 175
+  orig: 116, 184
+  offset: 4, 5
+  index: -1
+Dragon35-03/Hand_L_E
+  rotate: true
+  xy: 507, 50
+  size: 65, 129
+  orig: 74, 137
+  offset: 5, 4
+  index: -1
+Dragon35-03/Hand_L_S
+  rotate: false
+  xy: 688, 99
+  size: 137, 214
+  orig: 146, 223
+  offset: 4, 4
+  index: -1
+Dragon35-03/Hand_L_X
+  rotate: true
+  xy: 638, 7
+  size: 90, 67
+  orig: 98, 75
+  offset: 4, 4
+  index: -1
+Dragon35-03/Hand_R_E
+  rotate: false
+  xy: 437, 16
+  size: 68, 138
+  orig: 76, 146
+  offset: 4, 4
+  index: -1
+Dragon35-03/Hand_R_S
+  rotate: false
+  xy: 725, 765
+  size: 108, 265
+  orig: 116, 273
+  offset: 4, 4
+  index: -1
+Dragon35-03/Hand_R_X
+  rotate: false
+  xy: 707, 12
+  size: 70, 85
+  orig: 78, 93
+  offset: 4, 4
+  index: -1
+Dragon35-03/Head
+  rotate: true
+  xy: 2, 687
+  size: 343, 364
+  orig: 351, 372
+  offset: 4, 4
+  index: -1
+Dragon35-03/Tail
+  rotate: false
+  xy: 547, 330
+  size: 168, 348
+  orig: 168, 348
+  offset: 0, 0
+  index: -1
+YZ
+  rotate: true
+  xy: 507, 550
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1
+attack2/01_00000
+  rotate: true
+  xy: 717, 315
+  size: 110, 112
+  orig: 400, 400
+  offset: 274, 160
+  index: -1
+attack2/01_00003
+  rotate: true
+  xy: 351, 405
+  size: 273, 133
+  orig: 400, 400
+  offset: 111, 140
+  index: -1
+attack2/01_00006
+  rotate: true
+  xy: 175, 317
+  size: 368, 174
+  orig: 400, 400
+  offset: 15, 111
+  index: -1
+attack2/01_00009
+  rotate: true
+  xy: 2, 305
+  size: 380, 171
+  orig: 400, 400
+  offset: 6, 116
+  index: -1
+attack2/01_00012
+  rotate: false
+  xy: 175, 156
+  size: 370, 159
+  orig: 400, 400
+  offset: 9, 124
+  index: -1
+attack2/01_00015
+  rotate: true
+  xy: 2, 2
+  size: 301, 159
+  orig: 400, 400
+  offset: 46, 128
+  index: -1

@@ -1,0 +1,188 @@
+
+default.png
+size: 1107,1033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YZ
+  rotate: false
+  xy: 802, 630
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1
+attack2/01_00000
+  rotate: false
+  xy: 976, 163
+  size: 110, 112
+  orig: 400, 400
+  offset: 274, 160
+  index: -1
+attack2/01_00003
+  rotate: true
+  xy: 661, 171
+  size: 273, 133
+  orig: 400, 400
+  offset: 111, 140
+  index: -1
+attack2/01_00006
+  rotate: false
+  xy: 402, 446
+  size: 368, 174
+  orig: 400, 400
+  offset: 15, 111
+  index: -1
+attack2/01_00009
+  rotate: true
+  xy: 802, 651
+  size: 380, 171
+  orig: 400, 400
+  offset: 6, 116
+  index: -1
+attack2/01_00012
+  rotate: true
+  xy: 241, 201
+  size: 370, 159
+  orig: 400, 400
+  offset: 9, 124
+  index: -1
+attack2/01_00015
+  rotate: false
+  xy: 241, 40
+  size: 301, 159
+  orig: 400, 400
+  offset: 46, 128
+  index: -1
+boss02/Body
+  rotate: false
+  xy: 398, 622
+  size: 402, 409
+  orig: 402, 409
+  offset: 0, 0
+  index: -1
+boss02/Eye
+  rotate: false
+  xy: 163, 21
+  size: 52, 71
+  orig: 60, 79
+  offset: 4, 4
+  index: -1
+boss02/Foot_L_E
+  rotate: true
+  xy: 957, 277
+  size: 177, 92
+  orig: 185, 100
+  offset: 4, 4
+  index: -1
+boss02/Foot_L_S
+  rotate: true
+  xy: 647, 5
+  size: 164, 203
+  orig: 172, 211
+  offset: 4, 4
+  index: -1
+boss02/Foot_L_X
+  rotate: true
+  xy: 975, 616
+  size: 109, 130
+  orig: 117, 138
+  offset: 4, 4
+  index: -1
+boss02/Foot_R_E
+  rotate: true
+  xy: 544, 21
+  size: 183, 101
+  orig: 191, 109
+  offset: 4, 4
+  index: -1
+boss02/Foot_R_S
+  rotate: false
+  xy: 796, 212
+  size: 159, 242
+  orig: 167, 250
+  offset: 4, 4
+  index: -1
+boss02/Foot_R_X
+  rotate: false
+  xy: 852, 8
+  size: 122, 202
+  orig: 132, 212
+  offset: 4, 5
+  index: -1
+boss02/Hand_L_E
+  rotate: false
+  xy: 1020, 464
+  size: 75, 150
+  orig: 84, 158
+  offset: 5, 4
+  index: -1
+boss02/Hand_L_S
+  rotate: true
+  xy: 772, 456
+  size: 158, 246
+  orig: 166, 255
+  offset: 4, 4
+  index: -1
+boss02/Hand_L_X
+  rotate: false
+  xy: 976, 84
+  size: 104, 77
+  orig: 112, 85
+  offset: 4, 4
+  index: -1
+boss02/Hand_L_ZD
+  rotate: false
+  xy: 1051, 369
+  size: 43, 43
+  orig: 51, 52
+  offset: 4, 5
+  index: -1
+boss02/Hand_R_E
+  rotate: true
+  xy: 2, 13
+  size: 79, 159
+  orig: 87, 167
+  offset: 4, 4
+  index: -1
+boss02/Hand_R_S
+  rotate: false
+  xy: 975, 727
+  size: 124, 304
+  orig: 132, 312
+  offset: 4, 4
+  index: -1
+boss02/Hand_R_X
+  rotate: true
+  xy: 976, 2
+  size: 80, 97
+  orig: 88, 105
+  offset: 4, 4
+  index: -1
+boss02/Hand_R_ZD
+  rotate: false
+  xy: 1051, 414
+  size: 46, 48
+  orig: 54, 56
+  offset: 4, 4
+  index: -1
+boss02/Head-1
+  rotate: false
+  xy: 2, 573
+  size: 394, 458
+  orig: 402, 466
+  offset: 4, 4
+  index: -1
+boss02/Head-2
+  rotate: false
+  xy: 402, 206
+  size: 257, 238
+  orig: 265, 246
+  offset: 4, 4
+  index: -1
+boss02/Tail
+  rotate: false
+  xy: 2, 94
+  size: 237, 477
+  orig: 237, 477
+  offset: 0, 0
+  index: -1

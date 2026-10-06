@@ -1,0 +1,174 @@
+
+Dragon26-04.png
+size: 1102,1102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 804, 827
+  size: 293, 273
+  orig: 295, 276
+  offset: 1, 1
+  index: -1
+Eye_1
+  rotate: false
+  xy: 1015, 389
+  size: 79, 60
+  orig: 87, 60
+  offset: 4, 0
+  index: -1
+Eye_2
+  rotate: false
+  xy: 1017, 340
+  size: 66, 47
+  orig: 74, 47
+  offset: 4, 0
+  index: -1
+Fly_L_1
+  rotate: false
+  xy: 2, 607
+  size: 413, 493
+  orig: 415, 494
+  offset: 0, 1
+  index: -1
+Fly_L_2
+  rotate: false
+  xy: 417, 819
+  size: 385, 281
+  orig: 389, 286
+  offset: 2, 4
+  index: -1
+Fly_R_1
+  rotate: false
+  xy: 2, 141
+  size: 362, 464
+  orig: 367, 466
+  offset: 3, 1
+  index: -1
+Fly_R_2
+  rotate: true
+  xy: 366, 2
+  size: 278, 311
+  orig: 284, 313
+  offset: 4, 1
+  index: -1
+Foot_L_S
+  rotate: true
+  xy: 878, 557
+  size: 116, 182
+  orig: 124, 182
+  offset: 4, 0
+  index: -1
+Foot_L_X
+  rotate: true
+  xy: 870, 3
+  size: 133, 143
+  orig: 137, 145
+  offset: 3, 2
+  index: -1
+Foot_R_S
+  rotate: false
+  xy: 845, 388
+  size: 168, 167
+  orig: 176, 167
+  offset: 4, 0
+  index: -1
+Foot_R_X
+  rotate: true
+  xy: 235, 6
+  size: 133, 120
+  orig: 136, 125
+  offset: 2, 3
+  index: -1
+Hand_L_S
+  rotate: false
+  xy: 1015, 34
+  size: 81, 117
+  orig: 89, 117
+  offset: 4, 0
+  index: -1
+Hand_L_X
+  rotate: true
+  xy: 777, 616
+  size: 201, 99
+  orig: 203, 102
+  offset: 0, 2
+  index: -1
+Hand_R_S
+  rotate: false
+  xy: 1015, 451
+  size: 70, 104
+  orig: 78, 104
+  offset: 4, 0
+  index: -1
+Hand_R_X
+  rotate: true
+  xy: 1000, 153
+  size: 157, 92
+  orig: 159, 98
+  offset: 0, 4
+  index: -1
+Head-1
+  rotate: false
+  xy: 366, 282
+  size: 325, 314
+  orig: 333, 314
+  offset: 4, 0
+  index: -1
+Head-2
+  rotate: true
+  xy: 870, 138
+  size: 172, 128
+  orig: 180, 128
+  offset: 4, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 417, 598
+  size: 358, 219
+  orig: 361, 223
+  offset: 2, 2
+  index: -1
+Vfx-1-1
+  rotate: true
+  xy: 679, 47
+  size: 233, 189
+  orig: 233, 189
+  offset: 0, 0
+  index: -1
+Vfx-1-2
+  rotate: false
+  xy: 878, 675
+  size: 199, 150
+  orig: 199, 150
+  offset: 0, 0
+  index: -1
+Vfx-2
+  rotate: true
+  xy: 693, 327
+  size: 269, 150
+  orig: 270, 150
+  offset: 0, 0
+  index: -1
+Vfx-3
+  rotate: false
+  xy: 2, 33
+  size: 231, 106
+  orig: 231, 106
+  offset: 0, 0
+  index: -1
+Vfx-4
+  rotate: false
+  xy: 845, 312
+  size: 170, 74
+  orig: 171, 74
+  offset: 0, 0
+  index: -1
+YZ
+  rotate: false
+  xy: 2, 12
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1
